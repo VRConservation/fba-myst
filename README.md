@@ -1,3 +1,3 @@
-# Northeast California JPA
+# fbabook
 
-Strategy for funding the Northeast California Joint Powers Authority for woody biomass aggregation.
+Forest Business Alliance [Guide](https://forestbiz.info/)
