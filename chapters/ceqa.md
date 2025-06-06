@@ -7,10 +7,10 @@ Environmental compliance can range from simple to complex, costing nominal amoun
 Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location.
 
 ## CEQA
-A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
+A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa1`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
 
-```{figure} /figures/ceqa.png
-:name: ceqa
+```{figure} ../figures/ceqa.png
+:name: ceqa1
 General CEQA flowchart (adapted from {cite}`ceqa`).
 ```
 
@@ -25,7 +25,7 @@ The types of CEQA documents are many but generally encompass the following broad
 
 [The California Vegetation Treatment Program](https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
 
-```{figure} /figures/vtp.png
+```{figure} ../figures/vtp.png
 :name: vtp
 The CalVTP flowchart was adapted from 'Environmental planning strategies to reach the million-acre goal' (Ascent Environmental). See the FBA guide glossary for a key to acronyms.
 ```
@@ -41,7 +41,7 @@ Section IV - Cumulative Impacts Assessment of a Timber Harvest Plan (THP) - comp
 
 A diagram showing compliance pathways for wood products and forest health projects ({numref}`example`).
 
-```{figure} /figures/example.png
+```{figure} ../figures/example.png
 :name: example
 Example projects and CEQA/NEPA compliance. See notes below for explanations.
 ```

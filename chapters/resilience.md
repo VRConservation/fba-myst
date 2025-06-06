@@ -14,7 +14,7 @@ California’s diverse landscapes encompass forests, grasslands, chaparral, and 
 
 These forests are fire-adapted. While wildfires are a natural element of California's forests, human activities, land use changes, fire suppression practices, and climate change have intensified the frequency and severity of wildfires ({numref}`fig1`).
 
-```{figure} /figures/resiliencefigs/draft2/fig1.png
+```{figure} ../figures/resiliencefigs/draft2/fig1.png
 :height: 300px
 :name: fig1
 Annual acres burned statewide. Source: California Environmental Protection Agency’s Office of Environmental Health Hazard Assessment {cite}`OEHHA2024Wildfires`.
@@ -27,7 +27,7 @@ California’s megafires significantly destroy homes, infrastructure, and natura
 
 These impacts disproportionately affect low-income and Indigenous communities. Studies have examined the relationship between fire hazard [^1], fire experience, and income in California communities, showing that communities experiencing higher fire frequency have lower incomes ({numref}`fig2`). This result could be due to the lack of investment and resources in those areas or the repeated fires that have changed the communities over time.
 
-```{figure} /figures/resiliencefigs/draft2/fig2.png
+```{figure} ../figures/resiliencefigs/draft2/fig2.png
 :height: 500px
 :name: fig2
 Fire experience by census tracts and corresponding median income by experience group. Source: Hino, Field: “Fire frequency and vulnerability in California.” 
@@ -62,7 +62,7 @@ This research has identified several critical insights that underscore the compl
 - **Three of 58 counties make up half of treatable forests in Extreme Poverty Zones**. Mendocino, Humboldt, and Tehama have nearly 822,000 acres of private forest in Extreme Poverty lands requiring fuel reduction. 
 - **Current treatment levels are falling short**. In 2022, 86,000 acres were treated on private lands. If California continues at this rate, addressing the total private forest need will take more than 75 years. 
 
-```{figure} /figures/resiliencefigs/draft2/fig3-4.png
+```{figure} ../figures/resiliencefigs/draft2/fig3-4.png
 :height: 500px
 :name: fig3-4
 Private forest treatment needs by total acres within counties at left and private forest treatment needs by total acres within extreme poverty counties at right.
@@ -148,7 +148,7 @@ Table 2. Treatable privately owned acres in high and extreme poverty, total acti
 | Yolo | 2,144 | 55 | 55 | 0   | 100.0 |
 | Yuba | 71,432 | 78 | 0  | 4174 | 94.2 |
 
-## Endnotes
+
 [^1]: Fire hazard is fire damage (property damage) whereas fire experience is frequency of fires. Median income in communities that have had 6 or more fires since 1990 is \$66,128 whereas those with 1-2 fires have a median income of $100,063 (Hino and Field).
 [^2]: Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker [Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity) to determine acres in treatment and percent of those acres that are privately owned {cite}`WildfireDashboard`.
 [^3]: Ibid.

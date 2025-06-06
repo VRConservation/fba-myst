@@ -35,11 +35,13 @@ Send your proposed ideas to colleagues for review or try to develop them across 
 ## Budget
 Identifying and reviewing a proposal's requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. Starting with a rough estimate of the required fieldwork will help you make realistic project scope and scale decisions.
 
-Say you're developing a $1 mn budget project, dividing it into broad categories using a budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team how to allocate resources to the budget and project as they develop the proposal or project.
+Say you're developing a $1 mn budget project, dividing it into broad categories using a budget calculator ({numref}`budget-table`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team how to allocate resources to the budget and project as they develop the proposal or project.
 
-```{list-table} Back-of-the-envelope budget calculator.
+
+:::{list-table} Back-of-the-envelope budget calculator.
 :header-rows: 1
-:name: budget
+:name: budget-table
+:align: right
 
 * - Item
   - Amount
@@ -51,7 +53,7 @@ Say you're developing a $1 mn budget project, dividing it into broad categories 
   - 150,000
 * - **Total**
   - **1,000,000**
-```
+:::
 
 The calculator will give you rough amounts for each broad category. You could also break it down by your objectives and tasks from step 1 and the rough budget.
 

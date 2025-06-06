@@ -52,7 +52,7 @@ A new or revised assessment should be completed when preparing grant proposals, 
 
 We recommend you review pages 13 through 24 of the Open Standards {cite}`cmp`, which provides an excellent primer on assessment. 
 
-```{figure} /figures/situ.png
+```{figure} ../figures/situ.png
 :name: situation
 Simplified forest health situation model.
 ```
@@ -61,14 +61,14 @@ A situation model is a tool that visually portrays the relationships among the v
 
 Although Figure 2.1 depicts a conservation-focused model, a business can easily adapt it to suit its business model. The drivers and threats to healthy forests will remain the same in a forested system, but the strategy, scope, and targets may change. For instance, a wood products business may be focused on utilizing the wood removed by thinning projects and possibly increasing workforce capacity. Adapting the situation model to a forest business may look like {numref}`situ-biz`.
 
-```{figure} /figures/situ-biz.png
+```{figure} ../figures/situ-biz.png
 :name: situ-biz
 Wood products business situation model.
 ```
 
 Design teams frequently use assessment findings to construct problem trees ({numref}`tree`). These causal diagrams help you identify and study core problems by identifying their immediate and underlying causes and their negative effects. This analysis, in turn, allows you to identify solutions and desired outcomes that will address the problems rather than their symptoms. A problem tree is also useful for understanding the linkages between your program actions and desired outcomes.
 
-```{figure} /figures/tree.jpeg
+```{figure} ../figures/tree.jpeg
 :name: tree
 Problem tree.
 ```
@@ -97,7 +97,7 @@ BECAUSE of a defensible/cited evidence base"
 
 With this structure, the theory of change clarifies how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities, or institutions in the environment where the project will be implemented ({numref}`toc2`).
 
-```{figure} /figures/toc2.png
+```{figure} ../figures/toc2.png
 :name: toc2
 Simplified theory of change.
 ```
@@ -108,14 +108,14 @@ The theory of change is not simply a narrative description of the results framew
 
 Instead of a narrative theory of change, you may use a results chain, a visual diagram of a theory of change ({numref}`rc2`). The results chain shows the strategies identified in the situation model and connects them to interim results and project outcomes.
 
-```{figure} /figures/rc2.png
+```{figure} ../figures/rc2.png
 :name: rc2
 Results chains are a visual diagram of a theory of change showing anticipated outcomes {cite}`cmp`.
 ```
 
 A more specific example of workforce capacity building is shown in {numref}`rc3`. Once you have finished developing all project results chains, you can write your goals and objectives.
 
-```{figure} /figures/rc3.png
+```{figure} ../figures/rc3.png
 :name: rc3
 A simplified workforce capacity results chain.
 ```

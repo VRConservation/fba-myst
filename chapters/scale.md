@@ -14,7 +14,7 @@ Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is 
 ### Emotions
 Molly Graham, from her experience of scaling at Google, Facebook, and Quip, takes a unique scaling approach, examining the people and emotional side of scaling, noting that you should not try avoiding or ignoring the emotions that couple with the scaling tornado, but acknowledging they're normal and any other organization will be going through similar circumstances {cite}`graham`. She says that emotional acknowledgment, which she likens to making friends with the monster chewing on your leg, is only half the battle; the other half is how you respond ({numref}`monster`).
 
-```{figure} ./figures/scale/monster.png
+```{figure} ../figures/scale/monster.png
 :name: monster
 Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit: {cite}`graham`.
 ```

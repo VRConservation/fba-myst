@@ -11,28 +11,28 @@ It is important to note that this guide is meant to be used in conjunction with 
 ## Proposal Stage
 Access the eCivis portal for the Business & Workforce Development Grant Program through the link in the CAL FIRE guidelines for the solicitation ({numref}`application`). Note that this link is updated for each solicitation, so we are not including it here. For the Wood Products and Bioenergy Program, the solicitation guidelines are posted on the right side of the page under 'RECENT UPDATES'. It is important to create your account using the link in the grant guidelines. This will ensure you access the correct website and create an application in the correct solicitation window. Your account will be used for your application and to administer your grant, should your application be awarded funding.
 
-```{figure} /figures/ecivis/application.png
+```{figure} ../figures/ecivis/application.png
 :name: application
 Application process.
 ```
 
 Clicking the link in the first sentence of {numref}`application` takes you to a landing page with summary information about the solicitation ({numref}`landing`). Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the Program website and at the Files tab on the far right of {numref}`landing`.
 
-```{figure} /figures/ecivis/landing.png
+```{figure} ../figures/ecivis/landing.png
 :name: landing
 Initial solicitation landing page.
 ```
 
 Click the Apply checkbox below the CAL FIRE logo, leading you to a login page ({numref}`login`). Click Create an Account if you do not already have one, or log in if you do. Use the portal login. 
 
-```{figure} /figures/ecivis/login.png
+```{figure} ../figures/ecivis/login.png
 :name: login
 eCivis system log-in page.
 ```
 
 This will lead you to the submission portal, where you can start a new application or continue working on a previously saved application ({numref}`portal`).
 
-```{figure} /figures/ecivis/portal.png
+```{figure} ../figures/ecivis/portal.png
 :name: portal
 The eCivis submission portal.
 ```
@@ -78,7 +78,7 @@ There are two different ways to create and submit Activity Reports:
 
 1. Locate the Activity Report due under Pending Tasks and click the button with three lines, then click “Create Activity Report.” ({numref}`pending`). This will take you to the Activity Report page, where you will enter the reporting period, narrative, and metrics and upload any deliverables for the reporting period. 
 
-```{figure} /figures/ecivis/pending.png
+```{figure} ../figures/ecivis/pending.png
 :name: pending
 Option 1 for creating and submitting an Activity Report is to access it under Pending Tasks on the Award Dashboard page on eCivis. 
 ```
@@ -87,7 +87,7 @@ OR
 
 2. Look for the “Submit Activity Report” button (in green) at the top of the Award Dashboard ({numref}`act_report`). Either enter the due date of the pending Activity Report or click “Continue with New Report.” Either option will take you to the Activity Report page. Enter the Reporting Period, Report Narrative, and Activity Report Metrics. Leave the metrics section blank if you have not completed any goals or objectives during the reporting period. Upload any deliverables at the bottom of the page. If you are ready to submit, click the red “Submit Report” button. You cannot undo submitting the report, so only click this button if the report is final. If you want to save the report as a draft and return to it, click the blue “Save & Close” button. If you have saved a draft, you can access it again in the “Award Activities” section.
 
-```{figure} /figures/ecivis/act_report.png
+```{figure} ../figures/ecivis/act_report.png
 :name: act_report
 Option 2 for creating and submitting an Activity Report is to click on the green button that says “Submit Activity Report.”
 ```
@@ -105,7 +105,7 @@ When you are ready to submit your Financial Report, click on the green “Submit
 
 Your Financial Overview totals are displayed in the top section ({numref}`fin_report1`).
 
-```{figure} /figures/ecivis/fin_report1.png
+```{figure} ../figures/ecivis/fin_report1.png
 :name: fin_report1
 Financial overview. Note that amounts have been redacted for privacy reasons.
 ```
@@ -118,13 +118,13 @@ The items below the Financial Report Details heading describe the different budg
 - Pages 32-33 of the eCivis Grants Portal CAL FIRE Grantee User Guide explains how to complete the GL Code/Activity and Description cells. 
 - The bottom line, Report Total, will automatically tally your entered figures. This total should match the total on your CAL FIRE Invoice Form.
 
-```{figure} /figures/ecivis/fin_report_details.png
+```{figure} ../figures/ecivis/fin_report_details.png
 :name: fin_report_details
 Financial report details
 ```
 For reimbursement requests, the box next to “Reimbursement Request” must be checked for the submittal to go through. The Financial Report Narrative is marked as mandatory, but it is unnecessary to enter extensive text here if there is nothing to report ({numref}`narrative`). A short sentence, such as “Activity Report submitted separately,” will suffice.
 
-```{figure} /figures/ecivis/narrative.png
+```{figure} ../figures/ecivis/narrative.png
 :name: narrative
 Budget narrative.
 ```
