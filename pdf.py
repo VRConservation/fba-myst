@@ -3,11 +3,10 @@
 import subprocess
 import glob
 
+# Create chapters dictionary
 chapters = glob.glob("chapters/*.md") 
 
-
-chapters = ["../chapters/*.md"]
-
+# Run the myst build pdf for all markdown files in the chapters directory
 for filename in chapters:
     try:
         subprocess.run(
