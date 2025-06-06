@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/1-intro.pdf
+      article_type: Report
+---
+
 # 1. Introduction
 The Forest Business Alliance guide to forest product business development, implementation, and measuring success.
 

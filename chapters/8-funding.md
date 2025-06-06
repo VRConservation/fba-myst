@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/8-funding.pdf
+      article_type: Report
+---
+
 # 8. Funding Analysis
 
 The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and Workforce Development Grants

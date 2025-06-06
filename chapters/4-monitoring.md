@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/4-monitoring.pdf
+      article_type: Report
+---
+
 # 4. Monitoring
 How to measure organizational and business success on a shoestring or when you have little to no budget
 

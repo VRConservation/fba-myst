@@ -1,3 +1,15 @@
+---
+license: CC-BY-4.0
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: pdf
+      template: curvenote
+      output: exports/6-ceqa.pdf
+      article_type: Report
+---
+
 # 6. Compliance Pathways
 
 Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
