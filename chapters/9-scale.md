@@ -1,4 +1,4 @@
-# Scaling
+# 9. Scaling
 A brief guide to scaling forest businesses and organizations from local to landscape
 
 ## Takeaways

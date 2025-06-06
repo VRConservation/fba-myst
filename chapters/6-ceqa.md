@@ -1,4 +1,4 @@
-# Compliance Pathways
+# 6. Compliance Pathways
 
 Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
 

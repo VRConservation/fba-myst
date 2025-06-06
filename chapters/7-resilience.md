@@ -1,4 +1,4 @@
-# Resilience Gap
+# 7. Resilience Gap
 
 Veenu King and Michael Kent | New Leaf Climate Partners
 

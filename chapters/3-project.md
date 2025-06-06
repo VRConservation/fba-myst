@@ -1,4 +1,4 @@
-# Proposals
+# 3. Proposals
 How to design projects for proposals and cohesive programs
 
 ## Workflow

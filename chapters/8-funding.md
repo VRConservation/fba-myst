@@ -1,4 +1,4 @@
-# Funding Analysis
+# 8. Funding Analysis
 
 The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and Workforce Development Grants
 
