@@ -28,7 +28,7 @@ The Forest Business Alliance (FBA) created this chapter to help grant seekers, p
 
 However, while providing technical assistance to businesses and nonprofits, we realized there was too much emphasis on creating projects to respond to proposal requests. Many organizations were developing projects without considering how they fit into a program or the broader organizational purpose, or, at worst, chasing funds without a plan or organizational priorities. Therefore, the guide emphasizes taking a step back from project planning to consider how it may fit into programmatic priorities and how you may need to retrofit strategic-level priorities in your organization.
 
-```{important}
+```{important} Program vs. Project
 **Program** = A long-term collection of interrelated projects designed to achieve strategic goals and supporting objectives. <br>
 **Project** = A time-bound endeavor undertaken to produce a specific output or deliverable. A suite of projects should contribute to program goals. <br>
 <br>A project may be analogous to building a house, whereas a program, depending on its complexity and scale, could be creating a neighborhood or city.
@@ -137,13 +137,13 @@ Goals and objectives are often reversed, conflated, or used interchangeably by o
 
 **Goals** are the high-level, long-term results and impacts an organization or business seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, a goal will not have an associated indicator. Program goals are the nexus for your organization's projects.
 
-```{admonition} Example
+```{admonition} Goal Example
 By 2035, forest health will be significantly improved in California's Central Coast region through management techniques such as thinning and prescribed fire.
 ```
 
 **Objectives** represent the higher-order changes in systems, communities, or organizations that can reasonably be achieved during a project's time frame and provide the building blocks to achieve goals. Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chain. In many projects, objectives reflect the benefits expected to occur by the end of the project as a result of behavioral changes at the interim results level. Goals are how you want the world to be, and objectives describe what you will do to reach those goals.
 
-```{admonition} Example
+```{admonition} Objective Example
 By September 2025, 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded.
 ```
 
@@ -165,4 +165,3 @@ Training organizations will coordinate to identify 1,000 potential crew members 
 - [Miradi](https://www.miradishare.org/ux/home) is designed to help project proponents move through and plan the various stages of a program and projects and is widely adaptable.
 - [ArcGIS StoryMaps](https://storymaps.arcgis.com/) are effective communication tools. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used with geospatial analyses for program or business planning efforts. However, it is not open source and can be difficult for some to access. For this reason, we have often switched to Jupyter Books for storymapping articles.
 - Geospatial analysis tools such as QGIS, Geemap, Leafmap, Google Earth Engine, R, and geospatial Python libraries are critical for planning forest conservation and businesses using spatial data and analysis. Looking for ways to integrate program design to guide geospatial analysis and the analysis to ratify or measure components created in the program design is a beneficial way to incorporate spatial data into planning.
-
