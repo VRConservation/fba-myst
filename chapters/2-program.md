@@ -42,11 +42,12 @@ The Forest Business Alliance (FBA) created this chapter to help grant seekers, p
 
 However, while providing technical assistance to businesses and nonprofits, we realized there was too much emphasis on creating projects to respond to proposal requests. Many organizations were developing projects without considering how they fit into a program or the broader organizational purpose, or, at worst, chasing funds without a plan or organizational priorities. Therefore, the guide emphasizes taking a step back from project planning to consider how it may fit into programmatic priorities and how you may need to retrofit strategic-level priorities in your organization.
 
-```{important} Program vs. Project
+:::{important} Program vs. Project
+:class: dropdown
 **Program** = A long-term collection of interrelated projects designed to achieve strategic goals and supporting objectives. <br>
 **Project** = A time-bound endeavor undertaken to produce a specific output or deliverable. A suite of projects should contribute to program goals. <br>
 <br>A project may be analogous to building a house, whereas a program, depending on its complexity and scale, could be creating a neighborhood or city.
-```
+:::
 
 Competitive grant proposals are built around well-designed projects rooted in and contribute to thoughtfully planned programs. Projects that are well-designed are most effectively identified through proactive program planning. Program planning moves from the big picture (problems, needs, overarching goals, and desired outcomes) to an action-oriented project scale (what will you do to achieve the goals and outcomes, how long will that take, and how much will it cost). 
 
@@ -63,9 +64,10 @@ Please keep in mind that program design is iterative and dynamic. As you add det
 
 We used numerous publicly available sources to create the project design and monitoring templates. We adapted information to create resources suited to the CAL FIRE Business and Workforce Development Program grant program. The Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership {cite:p}`cmp`, and ProPack I: Project Design Guidance for Project and Program Managers, developed by Catholic Relief Services {cite:p}`propack`, are among the key sources we relied upon to develop this chapter.
 
-```{caution}
+:::{caution} Templates
+:class: dropdown
 The templates and information provided are for reference only. While FBA has made every effort to provide up-to-date and correct information, we make no representations concerning the contents.
-```
+:::
 
 ## Assessment
 Program planning typically begins with a participatory assessment of your business and organization and with the board, stakeholders, and clients. Conducting a thorough situation or problem analysis is central to your assessment. Your organization or business should review available evidence to complete your analysis, identifying the direct threats, core problems, and indirect threats, also known as drivers and causes. Evidence can be in many formats, for example [Conservation Evidence](https://www.conservationevidence.com/), local studies or research on forest health, interviews with experts who possess historical knowledge and experience, or proven projects, pilots, or technologies with data to back up their outcomes.
@@ -99,8 +101,8 @@ Design teams frequently use assessment findings to construct problem trees ({num
 Problem tree.
 ```
 
-```{tip} **Creating a Problem Tree**
-
+:::{tip} **Creating a Problem Tree**
+:class: dropdown
 Problem tree analysis is ideally done with stakeholders at a participatory workshop. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree.<br>
 
 Once you have created your situation model or problem trees, review the logic by asking these questions:
@@ -108,18 +110,19 @@ Once you have created your situation model or problem trees, review the logic by
 - Does each cause-effect link make sense? Is each link plausible? Why or why not?
 - How well have the causes connected to the roots? Are there any unidentified root causes?
 - What appears to be the relative contribution of each causal stream to the problem/threat? Do some causes appear more than once? Why is this?
-```
+:::
 
 ## Theory of Change
 A Theory of Change bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s results framework or ProFrame {numref}`toc2`. The theory of change clarifies why you believe the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the change hypothesis. A theory of change can be expressed in narrative or diagrammatic form.
 
-```{note}
+:::{note} Theory of Change
+:class: dropdown
 A narrative Theory of Change is a concise, explicit explanation of:
 
 “IF we implement strategies 1, 2, and 3 and our assumptions hold true
 THEN, we will achieve the following interim results and outcomes
 BECAUSE of a defensible/cited evidence base"
-```
+:::
 
 With this structure, the theory of change clarifies how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities, or institutions in the environment where the project will be implemented ({numref}`toc2`).
 
@@ -163,7 +166,7 @@ By September 2025, 300 future thinning and prescribed fire crew members from the
 
 **Interim results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies, or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition for achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject. Interim results may focus on demonstrable evidence of behavior change, such as adoption, uptake, or coverage.
 
-```{admonition} Example
+```{admonition} Interim Results Example
 Training organizations will coordinate to identify 1,000 potential crew members from disadvantaged communities of the Central Coast to participate in comprehensive thinning and prescribed fire practical courses by 2023.
 ```
 
@@ -178,4 +181,4 @@ Training organizations will coordinate to identify 1,000 potential crew members 
 - Business planning differs from organizational planning and typically focuses on developing a strategic business plan and pitch deck. See the [Forest Business Alliance](https://www.forestbusinessalliance.org/) templates page for a business plan template.
 - [Miradi](https://www.miradishare.org/ux/home) is designed to help project proponents move through and plan the various stages of a program and projects and is widely adaptable.
 - [ArcGIS StoryMaps](https://storymaps.arcgis.com/) are effective communication tools. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used with geospatial analyses for program or business planning efforts. However, it is not open source and can be difficult for some to access. For this reason, we have often switched to Jupyter Books for storymapping articles.
-- Geospatial analysis tools such as QGIS, Geemap, Leafmap, Google Earth Engine, R, and geospatial Python libraries are critical for planning forest conservation and businesses using spatial data and analysis. Looking for ways to integrate program design to guide geospatial analysis and the analysis to ratify or measure components created in the program design is a beneficial way to incorporate spatial data into planning.
+- **Geospatial analysis tools** such as QGIS, Google Earth Engine, R, and geospatial Python libraries, e.g., Geemap, Leafmap, are critical for planning forest conservation and businesses using spatial data and analysis. Looking for ways to integrate program design to guide geospatial analysis and the analysis to ratify or measure components created in the program design is a beneficial way to incorporate spatial data into planning.
