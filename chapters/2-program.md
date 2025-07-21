@@ -1,5 +1,23 @@
 ---
+title: Program Design
+subject: Planning
+subtitle: For clear funding, project management, and measuring success
+short_title: 2. Program Design
+authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+      - Forest Business Alliance
+    email: vance@3point.xyz
+  - name: Christopher Sacco
+    affiliations:
+      - Aegis Conservation
+      - Forest Business Alliance
+    email: chris@aegisconservation.com
 license: CC-BY-4.0
+keywords: planning, program, theory of change, results chains, goals, objectives 
+abstract: |
+  The Forest Business Alliance (FBA) created this chapter to help grant seekers, program/project managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). Key concept in program design include mission alignment or explicity designing programs before seeking funding, acknowledging assumptions and testing them with project implementation, planning programs vs. projects, and creating a system for program development and learning.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -9,10 +27,6 @@ exports:
       output: exports/2-program.pdf
       article_type: Report
 ---
-
-# 2. Program Design
-
-[Forest Business Alliance](https://www.forestbusinessalliance.org/)
 
 (program:reference)=
 ## Key Concepts
@@ -47,7 +61,7 @@ This guidance document and the accompanying worksheets are intended to be used s
 
 Please keep in mind that program design is iterative and dynamic. As you add detail and progress, the information you input during prior steps may need to be revised.
 
-We used numerous publicly available sources to create the project design and monitoring templates. We adapted information to create resources suited to the CAL FIRE Business and Workforce Development Program grant program. The Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership {cite}`cmp`, and ProPack I: Project Design Guidance for Project and Program Managers, developed by Catholic Relief Services {cite}`propack`, are among the key sources we relied upon to develop this chapter.
+We used numerous publicly available sources to create the project design and monitoring templates. We adapted information to create resources suited to the CAL FIRE Business and Workforce Development Program grant program. The Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership {cite:p}`cmp`, and ProPack I: Project Design Guidance for Project and Program Managers, developed by Catholic Relief Services {cite:p}`propack`, are among the key sources we relied upon to develop this chapter.
 
 ```{caution}
 The templates and information provided are for reference only. While FBA has made every effort to provide up-to-date and correct information, we make no representations concerning the contents.
