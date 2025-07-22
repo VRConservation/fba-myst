@@ -91,7 +91,10 @@ Why do detailed implementation planning or DIP? Detailed implementation planning
 
 **DIPs are usually prepared after a proposal is approved and funded but before implementation begins**. DIPs may be undertaken on an annual basis or for the life of the project, or both. If completed for the life of the project, the DIP is still revised and updated annually. DIPs are also called annual work plans. 
 
+:::{warning} Proposals are not DIPs
+:class: dropdown
 **Remember**: Your project proposal is not a DIP, because it does not have the required level of detail to use as a plan for implementation. Even the best M&E plan in a well-done proposal needs to be operationalized during detailed implementation planning. Operationalizing means making the plan operational, i.e., providing enough detail so that someone can actually implement it. However, DIPs do not start with a blank page. A proposal provides the basis for a strong DIP through its Proframe, M&E plan, Activity Schedule, organizational structure and staffing plans, budget, and other elements. Many of the steps in detailed implementation planning involve reviewing, updating, correcting, and further specifying elements already contained in the proposal.
+:::
 
 If you use FBA’s templates and guidance to design your project, you will have at least the beginnings of DIP and a project tracking system. FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application. 
 
@@ -105,20 +108,21 @@ All funding organizations require activity (progress) and financial reports. The
 
 Activity Reporting:  CAL FIRE usually requires an AR with every invoice, and prefer them to arrive together. This is where you will track your project milestones and deliverables. You’ll have an opportunity to describe your accomplishments, challenges, and point out any adjustments or improvements you plan to implement. It’s a good time to check in with your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month). 
 
-Financial Reporting:  
+:::{tip} Grant Invoicing & Reporting Tips
+:class: dropdown
+- Get organized!
+- Use standardized templates and automate portions of your report for accuracy and ease of replication.
+- Always commmunicate to your grant manager about any issues.
+- Make sure you have backups, especially for financial information
+- Use reporting to benefit your business/organization. **Don't make reporting drudgery!** Take advantage of it to build organizational learning and communications assets. You decide on reporting format. Sometimes donors may unnecessarily ask for a lot or in a format that's painful. Work with them constructively to reduce friction, automate, and have productive outcomes.
+:::
 
-- This is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category.
-- This is where you would also include any matching contributions you may have that were recorded during the Reporting Period.
-- You will produce backup documentation (receipts, timesheets, vender invoices, etc.)
-- These reports must reconcile with your internal accounting records.  Your Financial Report is a summary of what your costs were for your Reporting Period.
-- Stay on track with your grant timeline and budget.
+### Financial Reporting 
+Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (receipts, timesheets, vender invoices, etc.). Financial reports must reconcile with your internal accounting records.  Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
 
-Other Best Practices:
+### Best Practices
 - Use standardized templates provided by the funder – CAL FIRE provides a template for you to use as a payment reimbursement form.
 - Keep records organized and audit-ready – always prepare your documents with the thought of an auditor in mind.
 - Always communicate with your grant manager about any issues or changes.
 
-:::{tip} Grant Invoicing & Reporting Tips
-:class: dropdown
-- Get organized
-:::
+## Resources
