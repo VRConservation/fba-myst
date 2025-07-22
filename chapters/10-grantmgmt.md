@@ -7,13 +7,14 @@ authors:
   - name: Vance Russell
     affiliations:
       - 3point.xyz
-      - Forest Business Alliance
     email: vance@3point.xyz
   - name: Christopher Sacco
     affiliations:
       - Aegis Conservation
-      - Forest Business Alliance
     email: chris@aegisconservation.com
+  - name: Kelly Kahling
+    affiliations:  
+      - Headwaters Environmental, Inc.  
 license: CC-BY-4.0
 keywords: grants, management, donors 
 abstract: |

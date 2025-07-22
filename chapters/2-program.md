@@ -7,12 +7,10 @@ authors:
   - name: Vance Russell
     affiliations:
       - 3point.xyz
-      - Forest Business Alliance
     email: vance@3point.xyz
   - name: Christopher Sacco
     affiliations:
       - Aegis Conservation
-      - Forest Business Alliance
     email: chris@aegisconservation.com
 license: CC-BY-4.0
 keywords: planning, program, theory of change, results chains, goals, objectives 
