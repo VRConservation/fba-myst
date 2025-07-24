@@ -1,5 +1,21 @@
 ---
+title: Proposals
+subject: Funding
+subtitle: How to design projects for proposals and cohesive programs
+short_title: 3. Proposals
+authors:
+  - name: Christopher Sacco
+    affiliations:
+      - Aegis Conservation
+    email: chris@aegisconservation.com
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
 license: CC-BY-4.0
+keywords: proposals, funding, planning, program, goals, objectives 
+abstract: |
+  Writing proposals is an iterative process, starting with a brief 1-2 page description of the project then shifting to creating a detailed budget, before returning to the proposal details. These details may include scope, deliverables, implementation plan, timeline, and a monitoring plan to measure outcomes and success. We recommend thoroughly fleshing out program design to prioritize which funding proposals to target rather than adhering to any request for proposals available. Being tenacious is key to writing proposals and you may fail at first only to be funded by the same entity later. Failure lets you iterate and improve projects. Always to get feedback from the funding entity when not funded.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -10,10 +26,7 @@ exports:
       article_type: Report
 ---
 
-# 3. Proposals
-How to design projects for proposals and cohesive programs
-
-## Workflow
+# Workflow
 The project and proposal development workflow is iterative, like program design, similar to the budget process described in the budget section. In general, we suggest the following workflow to develop projects or a proposal:
 
 1. **Brief**. Create a 1-2 page brief with the following sections:
@@ -44,7 +57,7 @@ Use the brief to flesh out a more detailed project scope and description. Don't 
 
 Send your proposed ideas to colleagues for review or try to develop them across an interdisciplinary team or collaboratively if working with multiple partners.
 
-## Budget
+# Budget
 Identifying and reviewing a proposal's requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. Starting with a rough estimate of the required fieldwork will help you make realistic project scope and scale decisions.
 
 Say you're developing a $1 mn budget project, dividing it into broad categories using a budget calculator ({numref}`budget-table`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team how to allocate resources to the budget and project as they develop the proposal or project.
@@ -72,7 +85,7 @@ The calculator will give you rough amounts for each broad category. You could al
 ```{warning} **Critical**: include inflationary increases in your budget, especially for salaries and material costs that will increase over the project lifetime (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
 ```
 
-### Budget process
+## Budget process
 The project budget is the core engine of the project. Developing it with defensible numbers is critical to project success.
 
 1. **Tasks**. Create draft objectives and tasks.
@@ -93,14 +106,14 @@ Then, with your cursor in one of the table cells, select Insert>PivotTable>OK. C
 To build out your budget, add more rows to the detail sheet, repeating activities by year. After adding new rows, always click Data>Refresh All to update the summary table(s).
 ```
 
-## Finalize
+# Finalize
 Put together your project design and share it. For both proposals and projects, copyedit your final version and then copyedit it again. Look at it in different formats and, ideally, let the proposal rest for a few days, then copyedit again. Printing out the key written components and editing with a red pen can also help catch additional mistakes or grammatical errors. This might seem like a paper waste, but it can be effective for editing. 
 
 The FBA can also review projects and proposals, with our staff writers' years of experience with proposal development and successful funding track records. However, we ask that you send them early, e.g., months before the due date or during the conceptual phase. Please get in touch with us if you're interested in a review.
 
 Good luck!
 
-## Resources
+# Resources
 The project design chapter is a very brief look at how to develop projects and proposals. You'll want to dive deeper to develop your project and proposal craft. Here are a few additional resources to get going:
 
 - **[Forest Business Alliance](https://www.forestbusinessalliance.org)**. Templates upcoming workshops to prepare you for proposals and past workshop recordings on various aspects of program, project, and proposal development. 

@@ -1,5 +1,20 @@
 ---
+title: eCivis
+subject: Management
+subtitle: A cheat sheet to assist you in applying online and managing your approved project
+short_title: 5. eCivis
+authors:
+  - name: Keri Rinne
+    affiliations:
+      - Auburn Rancheria
+    email: kerri.rinne@gmail.com
+  - name: Kelly Kahling
+    affiliations:  
+      - Headwaters Environmental, Inc.
 license: CC-BY-4.0
+keywords: project management, reporting, grant submittal 
+abstract: |
+  The Forest Business Alliance (FBA) created this chapter to help grant seekers, program/project managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). Key concept in program design include mission alignment or explicity designing programs before seeking funding, acknowledging assumptions and testing them with project implementation, planning programs vs. projects, and creating a system for program development and learning.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -10,17 +25,14 @@ exports:
       article_type: Report
 ---
 
-# 5. eCivis
-A cheat sheet to assist you in applying online and managing your approved project
-
-## Background
+# Background
 CAL FIRE uses an online system called eCivis to receive applications and administer grants. You will use this system to apply for a CAL FIRE grant and manage and report on that grant if your application is successful. 
 
 The following information covers two stages at which you will use eCivis: The proposal stage, during which you will create a profile and submit all proposal materials, and the post-award stage, during which you will manage your project and use eCivis to submit Activity and Financial Reports. 
 
 It is important to note that this guide is meant to be used in conjunction with the Business & Workforce Development resources provided on CAL FIRE’s Wood Products and Bioenergy [website](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and eCivis-specific materials. In particular, the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy) and the eCivis Grants Portal Applicant Troubleshooting [Guide](https://shorturl.at/ETFdi).
 
-## Proposal Stage
+# Proposal Stage
 Access the eCivis portal for the Business & Workforce Development Grant Program through the link in the CAL FIRE guidelines for the solicitation ({numref}`application`). Note that this link is updated for each solicitation, so we are not including it here. For the Wood Products and Bioenergy Program, the solicitation guidelines are posted on the right side of the page under 'RECENT UPDATES'. It is important to create your account using the link in the grant guidelines. This will ensure you access the correct website and create an application in the correct solicitation window. Your account will be used for your application and to administer your grant, should your application be awarded funding.
 
 ```{figure} ../figures/ecivis/application.png
@@ -54,7 +66,7 @@ The eCivis submission portal.
 
 Follow the process in the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy), which will take you step-by-step through creating an account and completing an application.
 
-## eCivis Budget Tips
+# eCivis Budget Tips
 - Use the budget template on the FBA template [page](https://www.forestbusinessalliance.org/templates) to develop your project budget. As you complete the Detailed Budget worksheet (step 3 in the template), the template will automatically populate a worksheet (Output B. eCivis Upload) that can be used to complete the eCivis budget form. FBA created the template to make it as easy as possible to go from calculating a budget in Excel to filling out the eCivis form.
 - Please refer to the project/proposal chapter of the FBA guide for tips on developing your budget and the relationship between budget and scope development.
 - If you are applying on behalf of a non-profit or Tribe, you may be able to charge indirect costs. Other types of applicants, e.g., businesses, cannot charge indirect costs. If you have questions about indirect costs or how to include them in your grant budget, refer to the grant solicitation guidelines and the eCivis template. 
@@ -68,10 +80,10 @@ Line items automatically calculate the unit and unit cost the first time you ent
     - For guidance related to budget narrative content, please see the Forest Business Alliance Budget [template](https://www.forestbusinessalliance.org/templates). 
     - Be specific about line items and your justification for including each in the budget for your narrative.
 
-## Post-award Stage
+# Post-award Stage
 The eCivis Grants Portal CAL FIRE Grantee User Guide provides an overview of all stages of post-award grant management through eCivis. If you have been awarded a Business and Workforce Development Grant, this document provides the basic steps you need to take, from accepting the grant award to adding team members to your online portal who will assist with reporting or invoicing and how to submit financial and activity reports. 
 
-### Reporting
+## Reporting
 CAL FIRE requires a minimum of quarterly reporting; however, you can invoice and report as often as monthly. Below is a description of the reporting process, followed by a description of the financial reporting.
 
 Invoicing and reporting involve a three-step process: 
@@ -80,7 +92,7 @@ Invoicing and reporting involve a three-step process:
 2. Complete the Activity Report in eCivis (described below).
 3. Complete the Financial Report in eCivis (described below).
 
-### Activity Reports
+## Activity Reports
 Click on “My Awards” on the left side of the screen. A list of your awarded grants will appear. Under the “Actions” tab, you’ll see a button with three lines. Click it, and then click “Manage Award.” This will take you to your Award Dashboard.
 
 ```{note}
@@ -104,7 +116,7 @@ OR
 Option 2 for creating and submitting an Activity Report is to click on the green button that says “Submit Activity Report.”
 ```
 
-### Financial Reports
+## Financial Reports
 A Progress Report and Activity Report must accompany financial reports. At the outset of your project, it’s important to consider your needs regarding invoicing, as this will impact the frequency of all of your reporting. For example, if you submit monthly invoices, you must also submit Progress Reports and Activity Reports. 
 
 A helpful first step in financial report preparation is to review your current project budget totals, which can be seen by clicking on the blue “View Budget” button from the Award Dashboard page ({numref}`act_report`). If you want an Excel version of the information, click the small Excel icon at the top of the page next to “Actions.”

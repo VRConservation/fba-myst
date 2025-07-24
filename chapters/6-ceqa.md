@@ -1,5 +1,25 @@
 ---
+title: Compliance Pathways
+subject: Planning
+subtitle: Project permitting for proposals and project planning
+short_title: 6. Compliance Pathways
+authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
+  - name: Andrea Williams
+    affiliations:
+      - CAL FIRE
+    email: Andrea.Williams@fire.ca.gov
+  - name: Kerri Rinne
+    affiliations:
+      - Auburn Rancheria
+    email: kerri.rinne@gmail.com
 license: CC-BY-4.0
+keywords: planning, compliance, CEQA
+abstract: |
+  Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -9,16 +29,11 @@ exports:
       output: exports/6-ceqa.pdf
       article_type: Report
 ---
-
-# 6. Compliance Pathways
-
-Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
-
-## Background
+# Background
 
 Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location.
 
-## CEQA
+# CEQA
 A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa1`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
 
 ```{figure} ../figures/ceqa.png
@@ -33,7 +48,7 @@ The types of CEQA documents are many but generally encompass the following broad
 3. **Negative Declarations (neg dec/MND)** = The project will not have significant environmental impacts (neg dec) or has been redesigned to eliminate any significant impacts (Mitigated Negative Declaration, MND).
 4. **Environmental Impact Report (EIR)** = Prepared when significant environmental impacts are identified.
 
-## CalVTP
+# CalVTP
 
 [The California Vegetation Treatment Program](https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
 
@@ -49,7 +64,7 @@ Important timber/commercial definitions from California Code PRC 4527 include:
 
 Section IV - Cumulative Impacts Assessment of a Timber Harvest Plan (THP) - complies with CEQA. Once the THP is approved it is the functional equivalent of an EIR. The same environmental compliance applies to Nonindustrial Timber Management Plans (NTMPs).
 
-## Examples
+# Examples
 
 A diagram showing compliance pathways for wood products and forest health projects ({numref}`example`).
 

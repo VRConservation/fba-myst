@@ -1,5 +1,17 @@
 ---
+title: Scaling
+subject: Management
+subtitle: A brief guide to scaling forest businesses and organizations from local to landscape
+short_title: 9. Scaling
+authors: 
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
 license: CC-BY-4.0
+keywords: funding, forest business, gaps, geospatial
+abstract: |
+  Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses. By any measure it is not easy to do. We offer a background on scaling along with considerations, planning and budget in particular, to consider when scaling operations from the local to landscape. Broad success factors include clear leadership and planning, measuring standardized outcomes, and piloting successes may not translate or replicate across in other regions or landscapes. Recommendations from scaling at project outset, to realistically calculating the cost to scale are offered.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -10,20 +22,17 @@ exports:
       article_type: Report
 ---
 
-# 9. Scaling
-A brief guide to scaling forest businesses and organizations from local to landscape
-
-## Takeaways
+# Takeaways
 1. **Tailoring strategies**. Off-the-shelf solutions do not exist, especially in the forest health arena. Tailored strategies for scaling are therefore required, but bespoke solutions make scaling challenging, particularly if they have to be adjusted for each situation, geography, or organizational component.
 2. **Pilots may not work**. Sometimes referred to as the "pilot and pray" approach. In many cases, we may be running out of time, funding, and resources to conduct pilots. However, if you have to pilot a project, try it at a small scale, with clear hypotheses and metrics set up to test effectiveness.
 3. **Measuring outcomes**. Create monitoring and measurement systems that measure outcomes or impacts of forest health projects and your company's success. See the [Monitoring](https://3point.xyz/fba-myst/monitoring) chapter for more details on creating a system to measure your business success.
 4. **Workforce**. Finding qualified employees is a major challenge for the private and public sectors. Registered professional foresters (RPFs) are in short supply, and knowledgeable mill operators are difficult to find and train. Even assembling qualified thinning or prescribed fire crews led by experienced individuals can be difficult. Challenges are increased for nonprofits that offer lower salaries than the private sector.
 5. **Leadership**. From an ownership perspective, company leadership can be tricky, e.g., letting go as the company founder when the business expands. Depending on organizational needs, leadership may be needed in different locations or over time.
 
-## Background
+# Background
 Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses; much of it is breathless commentary about tech companies moving from a single founder to 1,000s of employees and how great the fireman's pole at the SOMA  office in San Francisco is. Few to none of this _oevre_ is linked to forest health, with most articles focused on scaling tech startups and most exploring scaling nuts and bolts. 
 
-### Emotions
+## Emotions
 Molly Graham, from her experience of scaling at Google, Facebook, and Quip, takes a unique scaling approach, examining the people and emotional side of scaling, noting that you should not try avoiding or ignoring the emotions that couple with the scaling tornado, but acknowledging they're normal and any other organization will be going through similar circumstances {cite}`graham`. She says that emotional acknowledgment, which she likens to making friends with the monster chewing on your leg, is only half the battle; the other half is how you respond ({numref}`monster`).
 
 ```{figure} ../figures/scale/monster.png
@@ -32,7 +41,7 @@ Acknowledging and responding to the monster chewing on your leg is critical for 
 ```
 Considering emotions in scaling is crucial for managing the workforce and also an important part of scaling leadership. Let's look at other approaches from the conservation and agricultural fields.
 
-### Up/out/deep
+## Up/out/deep
 In the conservation arena, {cite:t}`scaling` adapted a framework created by {cite:t}`moore` for scaling conservation nonprofits. Based on their literature review, there are three scaling approaches:
 
 1. **Scaling out** involves replicating the initial pilot with three options: 1. expanding the scope, 2. replicating pilots within a program, and 3. promoting innovation diffusion by capturing and communicating what you've learned and getting other organizations to adopt your strategies.
@@ -41,7 +50,7 @@ In the conservation arena, {cite:t}`scaling` adapted a framework created by {cit
 
 Scaling out is common in conservation but has several downsides, including high risk and cost. Piloting may ultimately lead to what many conservation projects follow the 'pilot and pray' approach {cite}`pathways`. In other words, implementing conservation actions based on effectiveness while ignoring scalability risks {cite}`pienkowski`. A bottom line reality is that we may frequently be beyond the pilot stage for forest or biodiversity conservation due to the advanced state of wildfires, climate change, and habitat loss. {cite:t}`pienkowski` says the inverse can be true, e.g., promoting scalability over effectiveness, and that effectiveness can change with scale, possibly requiring different methods to measure outcomes. For example, voluntary carbon markets have failed to deliver benefits due to inadequate methods to measure additionality {cite}`west`.
 
-### Farmer-2-farmer
+## Farmer-2-farmer
 Compared to agriculture, conservation falls far behind in understanding the factors related to adoption and scale. In his seminal book on farmer-to-farmer extension called Two Ears of Corn, Roland Bunch describes scaling agricultural extension, starting small and spreads by diffusion {cite}`ears`. One of the main components of this approach begins with small-scale experimentation. Farmers drive experimentation at this level on tiny, ~50 m<sup>2</sup>, plots, creating a low-risk approach. Small-scale experimentation has several advantages at the programmatic level since it can reach the poorest farmers due to its low-risk, low-cost approach.
 
 As more farmers do more experiments and successful strategies are chosen, the diffusion of the program spreads rapidly as farmers adopt cost-effective farming practices. The approach also has the advantage of being self-sustaining and does not need technical assistance from outside experts since farmers learn directly from one another; in other words, the program creates and turns its flywheel {cite}`collins`. Like the scaling deep approach mentioned above, farmer-to-farmer approaches can be scaled as movements and connected to social movements for food sovereignty {cite}`fertile`.
@@ -52,10 +61,10 @@ As more farmers do more experiments and successful strategies are chosen, the di
 2. **Breadth**. Known as horizontal scaling and can be achieved when practices are spread across many households and communities.
 3. **Verticality**. Comes into play when enabling farming practices across networks and movements and linking community farmers to markets and supportive policies.
 
-### Planned & scaled funding
+## Planned & scaled funding
 Funding is an important factor in scaling not covered in the agricultural examples above. In the check your scaling assumptions {cite:t}`scaling` provides an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that to reach a seemingly realistic but ambitious goal of 500,000 tons of CO<sub>2</sub>e sequestered, a hypothetical organization will have to carry out 250 projects over a decade. This is when s*%t gets real! They then create a financial model to determine total projects, costs, tons of carbon sequestered, and cost/ton. The upfront work demonstrates the value of testing assumptions made to carry out a plan {cite}`scaling`. A similar analysis could be completed simultaneously, focusing on staffing and workforce needed to carry out the plan.
 
-## Forest Businesses
+# Forest Businesses
 Scaling businesses is a double-edged sword: while it is a well-trodden path with numerous success stories, the pressure to scale begins immediately, accompanied by expectations for profit and system-wide success. Factors business owners may want to consider when planning to scale include
 
 - **Finance**. As a business scales, Different timings, amounts, and for different items may occur, further complicated by changes in markets and other external factors. Financing from traditional institutions for new products and approaches may take longer to develop but should become easier as more forest health businesses come online with successful track records.
@@ -67,7 +76,7 @@ Scaling businesses is a double-edged sword: while it is a well-trodden path with
 - **Sustainability**. How sustainable is your business as it expands? Are there controls and principles in place to maintain sustainability? Creating and maintaining a focus on a triple bottom line, measuring your company's performance based on profit, people, and planet (or environmental factors), building in B-corp certification, or giving back to the community can be significant factors. At another level, how do all of the factors in this section help your business weather change over time, and how do you measure sustainability or resilience to changes in supply, production, and markets?
 - **Measuring outcomes**. Create monitoring and measurement systems that measure the outcomes or impacts of forest health projects and your company's success.
 
-## Challenges
+# Challenges
 Rapid scaling is a huge challenge, particularly for nonprofit organizations that are often unable to scale rapidly due to funding, workforce, and governance issues. These issues seem overwhelming, but each piece is not insurmountable and may frequently have simple solutions. Patterns of challenges for scaling include
 
 - **Workforce**. Finding qualified employees is a major challenge for the private and public sectors. RPFs are in short supply, and knowledgeable mill operators are difficult to find and train. Putting together qualified thinning or prescribed fire crews led by experienced individuals is challenging. Challenges are increased for nonprofits that offer lower salaries than the private sector.
@@ -80,7 +89,7 @@ Rapid scaling is a huge challenge, particularly for nonprofit organizations that
 - **One size doesn't fit all**. This makes for a conundrum that prevents scaling since every effort to scale requires bespoke changes in policy, funding, workforce, behavioral, and institutional change {cite}`churches`. Furthermore, some companies may be content to scale to a certain size; others may wish to grow further. This right size can be factored into planning by the organization's board, but bottoms-up ownership of this growth also needs attention, not just top-down direction from the board.
 - **Effectiveness & scalability**. Evidence of scaling effectiveness, readiness, and risk evaluation can be lacking in projects. The actual total impact is not dependent on scalability alone, it is the sum of effectivneness and scale {cite}`pienkowski`. 
 
-## Recommendations
+# Recommendations
 Overall, strategies need to be tailored. Considerations to incorporate scale when developing your business, project, and programs for forest health:
 
 - **Scale from the outset**. Consider scaling from the start of your program design.
