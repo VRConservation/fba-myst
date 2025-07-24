@@ -4,13 +4,13 @@ subject: Grants
 subtitle: Successful organizations manage grants and donors
 short_title: 10. Grant management
 authors:
+  - name: Christopher Sacco
+    affiliations:
+      - Aegis Conservation
   - name: Vance Russell
     affiliations:
       - 3point.xyz
     email: vance@3point.xyz
-  - name: Christopher Sacco
-    affiliations:
-      - Aegis Conservation
     email: chris@aegisconservation.com
   - name: Kelly Kahling
     affiliations:  

@@ -41,5 +41,5 @@ We will be adding new chapters when they are ready. Please check back regularly!
 7. Resilience Gap. An analysis by New Leaf Climate Partners examining fuel reduction needs to decrease risks of severe wildfire for private forest owners in low-income communities in California.<br>
 8. Funding Analysis. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.<br>
 9. Scaling. Scaling forest business and organizational reach and impact.<br>
-10. Grant Management. [coming soon!] Now that you have a grant how do you successfully manage it?<br>
+10. Grant Management. Now that you have a grant how do you successfully manage it?<br>
 11. Cases. [coming soon!] Case studies of successful business and workforce development in California's forest health sector.
