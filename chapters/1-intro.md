@@ -1,7 +1,7 @@
 ---
 title: Introduction
 subject: FBA Guide
-subtitle: 
+subtitle:
 short_title: 1. Introduction
 authors:
   - name: Vance Russell
@@ -16,20 +16,22 @@ license: CC-BY-4.0
 abstract: |
   The Forest Business Alliance guide to forest business development, grant management, project implementation, funding, scaling, and measuring success.
 kernelspec:
-    name: python3
-    display_name: Python 3
+  name: python3
+  display_name: Python 3
 exports:
-    - format: pdf
-      template: curvenote
-      output: exports/1-intro.pdf
-      article_type: Report
+  - format: pdf
+    template: curvenote
+    output: exports/1-intro.pdf
+    article_type: Report
 ---
+
 # About
+
 The [Forest Business Alliance](https://www.forestbusinessalliance.org/) provides technical assistance, delivers workshops, and facilitates a peer-learning network to increase local and regional capacity for applicants to CAL FIRE's Business and Workforce Development Program.
 
 # Funding
-Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and the [Yuba Water Agency](https://www.yubawater.org/).
 
+Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and the [Yuba Water Agency](https://www.yubawater.org/).
 
 ```{image} ../calfire.png
 :height: 200px
@@ -41,6 +43,7 @@ Funding for the Forest Business Alliance is provided by the [CAL FIRE Business a
 Businesses, Tribal organizations, nonprofits, and other entities creating sustainable wood product facilities and businesses. The guide offers key insights and advice to access funds. More information and templates for the CAL FIRE Business and Workforce Development and USDA Forest Service Wood Innovation Grants can be found at the [Forest Business Alliance](https://www.forestbusinessalliance.org/) website. Feedback is welcome. Contact us directly at [forestbusinessalliance@gmail.com](mailto:'forestbusinessalliance.com').
 
 # Contents
+
 We will be adding new chapters when they are ready. Please check back regularly!
 
 1. Introduction. This chapter. <br>
