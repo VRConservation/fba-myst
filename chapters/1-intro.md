@@ -13,8 +13,6 @@ authors:
       - Aegis Conservation
     email: chris@aegisconservation.com
 license: CC-BY-4.0
-abstract: |
-  The Forest Business Alliance guide to forest business development, grant management, project implementation, funding, scaling, and measuring success.
 kernelspec:
   name: python3
   display_name: Python 3
