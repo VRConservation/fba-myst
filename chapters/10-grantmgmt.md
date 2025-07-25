@@ -7,29 +7,30 @@ authors:
   - name: Christopher Sacco
     affiliations:
       - Aegis Conservation
+    email: chris@aegisconservation.com
   - name: Vance Russell
     affiliations:
       - 3point.xyz
     email: vance@3point.xyz
-    email: chris@aegisconservation.com
   - name: Kelly Kahling
-    affiliations:  
-      - Headwaters Environmental, Inc.  
+    affiliations:
+      - Headwaters Environmental, Inc.
 license: CC-BY-4.0
-keywords: grants, management, donors 
+keywords: grants, management, donors
 abstract: |
-  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t manage the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025, for a wide group of California-based forest business practitioners. A recording of the workshop can be found on the Forest Business Alliance YouTube channel. 
+  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t manage the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025, for a wide group of California-based forest business practitioners. A recording of the workshop can be found on the Forest Business Alliance YouTube channel.
 kernelspec:
-    name: python3
-    display_name: Python 3
+  name: python3
+  display_name: Python 3
 exports:
-    - format: pdf
-      template: curvenote
-      output: exports/2-program.pdf
-      article_type: Report
+  - format: pdf
+    template: curvenote
+    output: exports/2-program.pdf
+    article_type: Report
 ---
 
 # Takeaways
+
 1. Grant management is critical to project and organizational success, yet doing it well is often overlooked or a lower priority.
 2. Consistency with funders, whether they're public, foundation, or private is of utmost importance. Don't assign grant management to interns, new staff, or temporary staff.
 3. Get to know your program officer or grant manager and make their life easy. See number 2, have the same person manage the grant for its entirety.
@@ -37,6 +38,7 @@ exports:
 5. Make reporting do double duty. At its worst, reporting can be drudgery. Change that and make reports effective communication tools for your project and organizational successes. Build reporting into your organizational learning and evaluation cycles. Some organizations use their annual report for both public outreach and reporting to donors.
 
 # Budget
+
 > "A budget is telling your money where to go instead of wondering where it went."
 >
 > -- John Maxwell
@@ -47,7 +49,7 @@ Some common reasons why good organizations and smart people prepare bad budgets 
 
 - Lack of coordination/disconnect between technical/program and budget/finance (so cost and tech don’t align)
 - Costs that are not based on historical or real data
-- Most time spent on design/technical so not enough time allocated for budget 
+- Most time spent on design/technical so not enough time allocated for budget
 - Activities outlined during the design phase cost more than the money available
 
 After you win a grant, budget tracking is essential:
@@ -64,7 +66,8 @@ Automate expense tracking as much as possible. There are many good apps that can
 :::
 
 ## Match
-Match tracking is essential for meeting grant obligations and can be critical for leveraging future grants: 
+
+Match tracking is essential for meeting grant obligations and can be critical for leveraging future grants:
 
 - Meets Grant Obligations: Many grants require matching contributions (cash or in-kind); accurate tracking ensures compliance.
 - Provides Verifiable Documentation: Track source, type (cash/in-kind), value, and date of each match with proper records.
@@ -78,49 +81,56 @@ Make a plan for how you will meet the match requirements and track it from day o
 :::
 
 # Planning
+
 Just as a good budget is connected to financial management and reporting, a solid implementation plan is required for tracking progress toward your project’s goals and objectives. Though you should have fleshed out activities when designing your project and creating its budget, often the proposal you submitted does not contain the level of detail needed by project managers for implementation.
 
 Once funding is obtained, detailed implementation planning takes place to produce updated schedules, plans, targets and systems that have sufficient detail to permit effective project implementation. Some organizations call this start-up planning. Detailed implementation planning is closely tied to monitoring, evaluation and learning.
 
 ## DIPs
-Why do detailed implementation planning or DIP? Detailed implementation planning helps ensure that the contractual obligations of a project are accomplished. These include the following: 
+
+Why do detailed implementation planning or DIP? Detailed implementation planning helps ensure that the contractual obligations of a project are accomplished. These include the following:
 
 - Conducting project activities that lead to the delivery of outputs that meet quality standards, are on time and within budget;
 - Using and managing project resources in conformity with budgets and accounting standards and rules; and
-- Complying with any relevant conditions of the Award Agreement. 
+- Complying with any relevant conditions of the Award Agreement.
 
-**DIPs are usually prepared after a proposal is approved and funded but before implementation begins**. DIPs may be undertaken on an annual basis or for the life of the project, or both. If completed for the life of the project, the DIP is still revised and updated annually. DIPs are also called annual work plans. 
+**DIPs are usually prepared after a proposal is approved and funded but before implementation begins**. DIPs may be undertaken on an annual basis or for the life of the project, or both. If completed for the life of the project, the DIP is still revised and updated annually. DIPs are also called annual work plans.
 
 :::{warning} Proposals are not DIPs
 :class: dropdown
 **Remember**: Your project proposal is not a DIP, because it does not have the required level of detail to use as a plan for implementation. Even the best M&E plan in a well-done proposal needs to be operationalized during detailed implementation planning. Operationalizing means making the plan operational, i.e., providing enough detail so that someone can actually implement it. However, DIPs do not start with a blank page. A proposal provides the basis for a strong DIP through its Proframe, M&E plan, Activity Schedule, organizational structure and staffing plans, budget, and other elements. Many of the steps in detailed implementation planning involve reviewing, updating, correcting, and further specifying elements already contained in the proposal.
 :::
 
-If you use FBA’s templates and guidance to design your project, you will have at least the beginnings of DIP and a project tracking system. FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application. 
+If you use FBA’s templates and guidance to design your project, you will have at least the beginnings of DIP and a project tracking system. FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application.
 
 ## Monitoring
+
 Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Chapter 4 Monitoring provides a primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs.
 
 The e-Civis Grant Portal Goals worksheet to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
 
 # Reporting
-All funding organizations require activity (progress) and financial reports. These reports need to be done accurately and timely.  This helps you as much as it helps your grant organization by keeping you on schedule, on track with reporting, it ensures transparency with your funding agency, maintains compliance, and supports future funding opportunities.
 
-Activity Reporting:  CAL FIRE usually requires an AR with every invoice, and prefer them to arrive together. This is where you will track your project milestones and deliverables. You’ll have an opportunity to describe your accomplishments, challenges, and point out any adjustments or improvements you plan to implement. It’s a good time to check in with your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month). 
+All funding organizations require activity (progress) and financial reports. These reports need to be done accurately and timely. This helps you as much as it helps your grant organization by keeping you on schedule, on track with reporting, it ensures transparency with your funding agency, maintains compliance, and supports future funding opportunities.
+
+Activity Reporting: CAL FIRE usually requires an AR with every invoice, and prefer them to arrive together. This is where you will track your project milestones and deliverables. You’ll have an opportunity to describe your accomplishments, challenges, and point out any adjustments or improvements you plan to implement. It’s a good time to check in with your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month).
 
 :::{tip} Grant Invoicing & Reporting Tips
 :class: dropdown
+
 - Get organized!
 - Use standardized templates and automate portions of your report for accuracy and ease of replication.
 - Always commmunicate to your grant manager about any issues.
 - Make sure you have backups, especially for financial information
 - Use reporting to benefit your business/organization. **Don't make reporting drudgery!** Take advantage of it to build organizational learning and communications assets. You decide on reporting format. Sometimes donors may unnecessarily ask for a lot or in a format that's painful. Work with them constructively to reduce friction, automate, and have productive outcomes.
-:::
+  :::
 
-## Financial Reporting 
-Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (receipts, timesheets, vender invoices, etc.). Financial reports must reconcile with your internal accounting records.  Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
+## Financial Reporting
+
+Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (receipts, timesheets, vender invoices, etc.). Financial reports must reconcile with your internal accounting records. Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
 
 ## Best Practices
+
 - Use standardized templates provided by the funder – CAL FIRE provides a template for you to use as a payment reimbursement form.
 - Keep records organized and audit-ready – always prepare your documents with the thought of an auditor in mind.
 - Always communicate with your grant manager about any issues or changes.
