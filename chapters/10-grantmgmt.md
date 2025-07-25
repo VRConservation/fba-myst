@@ -18,7 +18,7 @@ authors:
 license: CC-BY-4.0
 keywords: grants, management, donors 
 abstract: |
-  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t take care managing the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking to reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025 to a wide group of California-based forest business practitioners. Recording of the workshop can be found on the Forest Business Alliance youtube channel. 
+  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t manage the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025, for a wide group of California-based forest business practitioners. A recording of the workshop can be found on the Forest Business Alliance YouTube channel. 
 kernelspec:
     name: python3
     display_name: Python 3
