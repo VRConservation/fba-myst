@@ -18,7 +18,7 @@ authors:
 license: CC-BY-4.0
 keywords: grants, management, donors
 abstract: |
-  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t manage the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025, for a wide group of California-based forest business practitioners. A recording of the workshop can be found on the Forest Business Alliance YouTube channel.
+  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but don’t manage the most important thing: the grants they’ve secured and their funder relationships. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23 2025, for a wide group of California-based forest business practitioners. We offer a practical case study for reporting automation usable for any type of grant management.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -30,7 +30,6 @@ exports:
 ---
 
 # Takeaways
-
 1. Grant management is critical to project and organizational success, yet doing it well is often overlooked or a lower priority.
 2. Consistency with funders, whether they're public, foundation, or private is of utmost importance. Don't assign grant management to interns, new staff, or temporary staff.
 3. Get to know your program officer or grant manager and make their life easy. See number 2, have the same person manage the grant for its entirety.
@@ -38,7 +37,6 @@ exports:
 5. Make reporting do double duty. At its worst, reporting can be drudgery. Change that and make reports effective communication tools for your project and organizational successes. Build reporting into your organizational learning and evaluation cycles. Some organizations use their annual report for both public outreach and reporting to donors.
 
 # Budget
-
 > "A budget is telling your money where to go instead of wondering where it went."
 >
 > -- John Maxwell
@@ -66,7 +64,6 @@ Automate expense tracking as much as possible. There are many good apps that can
 :::
 
 ## Match
-
 Match tracking is essential for meeting grant obligations and can be critical for leveraging future grants:
 
 - Meets Grant Obligations: Many grants require matching contributions (cash or in-kind); accurate tracking ensures compliance.
@@ -81,14 +78,12 @@ Make a plan for how you will meet the match requirements and track it from day o
 :::
 
 # Planning
-
 Just as a good budget is connected to financial management and reporting, a solid implementation plan is required for tracking progress toward your project’s goals and objectives. Though you should have fleshed out activities when designing your project and creating its budget, often the proposal you submitted does not contain the level of detail needed by project managers for implementation.
 
 Once funding is obtained, detailed implementation planning takes place to produce updated schedules, plans, targets and systems that have sufficient detail to permit effective project implementation. Some organizations call this start-up planning. Detailed implementation planning is closely tied to monitoring, evaluation and learning.
 
-## DIPs
-
-Why do detailed implementation planning or DIP? Detailed implementation planning helps ensure that the contractual obligations of a project are accomplished. These include the following:
+## Detailed Implementation Planning
+Why do detailed implementation planning (DIP)? Detailed implementation planning helps ensure that the contractual obligations of a project are accomplished. These include the following:
 
 - Conducting project activities that lead to the delivery of outputs that meet quality standards, are on time and within budget;
 - Using and managing project resources in conformity with budgets and accounting standards and rules; and
@@ -104,35 +99,86 @@ Why do detailed implementation planning or DIP? Detailed implementation planning
 If you use FBA’s templates and guidance to design your project, you will have at least the beginnings of DIP and a project tracking system. FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application.
 
 ## Monitoring
-
 Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Chapter 4 Monitoring provides a primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs.
 
 The e-Civis Grant Portal Goals worksheet to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
 
 # Reporting
-
 All funding organizations require activity (progress) and financial reports. These reports need to be done accurately and timely. This helps you as much as it helps your grant organization by keeping you on schedule, on track with reporting, it ensures transparency with your funding agency, maintains compliance, and supports future funding opportunities.
 
-Activity Reporting: CAL FIRE usually requires an AR with every invoice, and prefer them to arrive together. This is where you will track your project milestones and deliverables. You’ll have an opportunity to describe your accomplishments, challenges, and point out any adjustments or improvements you plan to implement. It’s a good time to check in with your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month).
+## CAL FIRE
+CAL FIRE usually requires an activity report with every invoice, and prefers them to arrive together. This is where you will track your project milestones and deliverables. You will have an opportunity to describe your accomplishments, challenges, and point out any adjustments or improvements you plan to implement. It is a good time to review your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month).
 
 :::{tip} Grant Invoicing & Reporting Tips
 :class: dropdown
 
 - Get organized!
 - Use standardized templates and automate portions of your report for accuracy and ease of replication.
-- Always commmunicate to your grant manager about any issues.
+- Always communicate to your grant manager about any issues.
 - Make sure you have backups, especially for financial information
 - Use reporting to benefit your business/organization. **Don't make reporting drudgery!** Take advantage of it to build organizational learning and communications assets. You decide on reporting format. Sometimes donors may unnecessarily ask for a lot or in a format that's painful. Work with them constructively to reduce friction, automate, and have productive outcomes.
   :::
 
-## Financial Reporting
+## Financial
+Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (e.g., receipts, timesheets, and vendor invoices). Financial reports must reconcile with your internal accounting records. Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
 
-Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (receipts, timesheets, vender invoices, etc.). Financial reports must reconcile with your internal accounting records. Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
+## Automation
+There are many software packages for managing and automating financial tracking and reporting. Most are focused on small to medium sized businesses and may offer reporting templates, but they are not typically relevant to forest product businesses or nonprofits. 
 
-## Best Practices
+[Miradi](https://www.miradishare.org/) is an exception to the general financial accounting software. It is available online or desktop and nicely integrates projects from situation assessment, theory of change, results chains, progress tracking, to reporting. It does have a subscription plan of \$350/year (2025), more if you want to customize report templates, but the community, connection to many foundations and nonprofits that adopted the [Conservation Standards](https://3point.xyz/cmp5), and integration of entire project makes it a worthwhile investment if you choosse to operate in that system. It is geared more towards nonprofits, however, so may not be as useful for small business owners.
 
-- Use standardized templates provided by the funder – CAL FIRE provides a template for you to use as a payment reimbursement form.
-- Keep records organized and audit-ready – always prepare your documents with the thought of an auditor in mind.
+### Python
+We offer a simple example that takes a little setup time, but automates your reporting in a customizable format. Similar to any recipe there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works you can step outside your office, beat your chest, and yell "I am a coding superstar!". Well maybe don't yell that. Here are the setup steps[^foss]
+
+1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Decide if you want the lightweight command interface miniconda or the desktop-based with gui anaconda.
+2. Open a terminal. In Windows hit the windows key and type terminal and open the terminal app or windows powershell. You should see the following:
+
+```
+(base) C:\Users\yourusername>
+```
+3. Create a conda virtual environment. Never install packages into your base environment to avoid incompatibilities, affecting your base (which you can't delete, venv's are easy to delete), and making it easy to troubleshoot. Decide on your env name, let's call it auto (use a short name, 5 letters or less) in this case. Type the following command in the terminal and hit enter:
+
+```
+(base) C:\Users\yourusername> conda create -n auto python
+```
+
+The terminal will start running and when it says `Proceed ([y]/n)?` hit enter or y and enter on your keyboard. Conda will download the necessary files and provide instructions for activating or deactivating the new env.
+
+4. Check installation and activate auto virtual environment.
+
+```
+(base) C:\Users\yourusername> conda env list
+```
+
+You should see a list of any of the conda environments installed including auto and where they are located. The active env should be the base and have an asterisk next to it. Now activate auto:
+
+```
+(base) C:\Users\yourusername> conda activate auto
+```
+
+You should see the following:
+
+```
+(auto) C:\Users\yourusername>
+```
+
+5. Install autorpt:
+
+```
+(auto) C:\Users\yourusername> pip install autorpt
+```
+
+The install will download and install. You can check the installation by typing `conda list` and it will appear with the other packages installed.
+
+[^foss]: Detailed steps for virtual environment and Visual Studio Code setup can be found in the 1st two appendices of [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
+
+### Excel
+Examples in VBA and also pivot chart/table automations
+
+# Best Practices
+- Use standardized templates provided by the funder–CAL FIRE provides a template for you to use as a payment reimbursement form.
+- Keep records organized and audit-ready–always prepare your documents with the thought of an auditor in mind.
 - Always communicate with your grant manager about any issues or changes.
 
 # Resources
+Include?
