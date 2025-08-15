@@ -1,6 +1,6 @@
 ---
 title: Grant Management
-subject: Management
+subject: Project Management
 subtitle: Successful organizations manage grants and donors
 short_title: 10. Grant management
 authors:
@@ -127,7 +127,8 @@ There are many software packages for managing and automating financial tracking 
 
 [Miradi](https://www.miradishare.org/) is an exception to the general financial accounting software. It is available online or as a desktop version and nicely integrates projects from situation assessment, theory of change, results chains, progress tracking, to reporting. It does have a subscription plan of \$350/year (2025), more if you want to customize report templates. Still, the community, connection to many foundations and nonprofits that adopted the [Conservation Standards](https://3point.xyz/cmp5), and integration of the entire project make it a worthwhile investment if you choose to operate in that system. It is geared more towards nonprofits, however, so it may not be as useful for small business owners.
 
-### Python
+:::{tip} Python Automation Example
+:class: dropdown
 We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss]
 
 1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Decide if you want the lightweight command interface, miniconda, or the desktop-based Anaconda.
@@ -171,6 +172,7 @@ You should see the following:
 The install will download and install. You can verify the installation by typing `conda list`, and it will appear alongside the other installed packages.
 
 [^foss]: Detailed steps for virtual environment and Visual Studio Code setup can be found in the 1st two appendices of [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
+:::
 
 ### Excel
 Examples in VBA and also pivot chart/table automations
