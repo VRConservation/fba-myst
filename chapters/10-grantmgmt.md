@@ -74,11 +74,11 @@ Match tracking is essential for meeting grant obligations and can be critical fo
 
 :::{tip} Match Plan
 :class: dropdown
-Create a plan for meeting the match requirements and track your progress from day one.
+Create a plan to meet the match requirements and track your progress from the start.
 :::
 
 # Planning
-Just as a good budget is connected to financial management and reporting, a solid implementation plan is required for tracking progress toward your project’s goals and objectives. Although you should have fleshed out activities when designing your project and creating its budget, the proposal you submitted often does not contain the level of detail needed by project managers for implementation.
+Just as a good budget is connected to financial management and reporting, a solid implementation plan is required for tracking progress toward your project’s goals and objectives. Although you should have fleshed out activities when designing your project and creating its budget, the proposal you submitted often lacks the level of detail required by project managers for implementation.
 
 Once funding is obtained, detailed implementation planning takes place to produce updated schedules, plans, targets, and systems that have sufficient detail to permit effective project implementation. Some organizations call this start-up planning. Detailed implementation planning is closely tied to monitoring, evaluation, and learning.
 
@@ -93,7 +93,7 @@ Why do detailed implementation planning (DIP)? Detailed implementation planning 
 
 :::{warning} Proposals are not DIPs
 :class: dropdown
-**Remember**: Your project proposal is not a DIP, because it does not have the required level of detail to use as a plan for implementation. Even the best M&E plan in a well-done proposal needs to be operationalized during detailed implementation planning. Operationalizing means making the plan operational, i.e., providing enough detail so that someone can implement it. However, DIPs do not start with a blank page. A proposal provides the basis for a strong DIP through its Proframe, M&E plan, Activity Schedule, organizational structure and staffing plans, budget, and other elements. Many of the steps in detailed implementation planning involve reviewing, updating, correcting, and further specifying elements already contained in the proposal.
+**Remember**: Your project proposal is not a DIP, because it does not have the required level of detail to use as a plan for implementation. Even the best M&E plan in a well-done proposal needs to be operationalized during detailed implementation planning. Operationalizing means making the plan operational, i.e., providing sufficient detail so that it can be implemented. However, DIPs do not start with a blank page. A proposal provides the basis for a strong DIP through its Proframe, M&E plan, Activity Schedule, organizational structure and staffing plans, budget, and other elements. Many of the steps in detailed implementation planning involve reviewing, updating, correcting, and further specifying elements already contained in the proposal.
 :::
 
 If you use FBA’s templates and guidance to design your project, you will have at least the beginnings of DIP and a project tracking system. FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application.
@@ -104,7 +104,7 @@ Design teams, especially those creating complex, multi-year projects, should con
 The e-Civis Grant Portal Goals worksheet, which is used to input project metrics and targets, does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
 
 # Reporting
-All funding organizations require activity (progress) and financial reports. These reports must be completed accurately and in a timely manner. This helps you as much as it allows your grant organization by keeping you on schedule, on track with reporting, ensuring transparency with your funding agency, maintaining compliance, and supporting future funding opportunities.
+All funding organizations require activity (progress) and financial reports. These reports must be completed accurately and promptly. This helps you as much as it allows your grant organization by keeping you on schedule, on track with reporting, ensuring transparency with your funding agency, maintaining compliance, and supporting future funding opportunities.
 
 ## CAL FIRE
 CAL FIRE usually requires an activity report with every invoice, and prefers them to arrive together. This is where you will track your project milestones and deliverables. You will have the opportunity to describe your accomplishments, challenges, and highlight any adjustments or improvements you plan to implement. It is a good time to review your approved scope of work and make sure your activities are aligned with your grant deliverables. Activity Reports are submitted on a regular schedule (CAL FIRE requires at least one per quarter, not more than one per month).
@@ -127,7 +127,9 @@ There are many software packages for managing and automating financial tracking 
 
 [Miradi](https://www.miradishare.org/) is an exception to the general financial accounting software. It is available online or as a desktop version and nicely integrates projects from situation assessment, theory of change, results chains, progress tracking, to reporting. It does have a subscription plan of \$350/year (2025), more if you want to customize report templates. Still, the community, connection to many foundations and nonprofits that adopted the [Conservation Standards](https://3point.xyz/cmp5), and integration of the entire project make it a worthwhile investment if you choose to operate in that system. It is geared more towards nonprofits, however, so it may not be as useful for small business owners.
 
-:::{tip} Python Automation Example
+Try the Python automation if you're comfortable using a command-line interface in a terminal or prefer a DIY approach. Use the executable example if you want similar automation but using a graphical interface. 
+
+:::{tip} Python Example
 :class: dropdown
 We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss]
 
@@ -174,13 +176,13 @@ The install will download and install. You can verify the installation by typing
 [^foss]: Detailed steps for virtual environment and Visual Studio Code setup can be found in the 1st two appendices of [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
 :::
 
-### Excel
-Examples in VBA and also pivot chart/table automations
+:::{tip} Python Executable Example
+:class: dropdown
+
+Examples with executable and Python gui
+:::
 
 # Best Practices
 - Use standardized templates provided by the funder–CAL FIRE provides a template for you to use as a payment reimbursement form.
 - Keep records organized and audit-ready–always prepare your documents with the thought of an auditor in mind.
 - Always communicate with your grant manager about any issues or changes.
-
-# Resources
-Include?
