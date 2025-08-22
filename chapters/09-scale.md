@@ -3,7 +3,7 @@ title: Scaling
 subject: Management
 subtitle: A brief guide to scaling forest businesses and organizations from local to landscape
 short_title: 9. Scaling
-date: 2025-09-01
+date: 2024-05-10
 authors:
   - name: Vance Russell
     affiliations: 
@@ -19,7 +19,7 @@ kernelspec:
 exports:
   - format: docx
     template: curvenote
-    output: exports/9-scale.docx
+    output: exports/09-scale.docx
     article_type: Report
 ---
 

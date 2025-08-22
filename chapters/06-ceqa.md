@@ -3,7 +3,7 @@ title: Compliance Pathways
 subject: Planning
 subtitle: Project permitting for proposals and project planning
 short_title: 6. Compliance Pathways
-date: 2025-09-01
+date: 2024-04-26
 authors:
   - name: Vance Russell
     affiliations:
@@ -27,7 +27,7 @@ kernelspec:
 exports:
     - format: docx
       template: curvenote
-      output: exports/6-ceqa.docx
+      output: exports/06-ceqa.docx
       article_type: Report
 ---
 # Background
@@ -54,7 +54,7 @@ The types of CEQA documents are many but generally encompass the following broad
 
 ```{figure} ../figures/vtp.png
 :name: vtp
-The CalVTP flowchart was adapted from 'Environmental planning strategies to reach the million-acre goal' (Ascent Environmental). See the FBA guide glossary for a key to acronyms.
+The CalVTP flowchart was adapted from 'Environmental planning strategies to reach the million-acre goal' (Ascent Environmental). See the glossary at the Chapter's end for a key to acronyms.
 ```
 
 Important timber/commercial definitions from California Code PRC 4527 include:
@@ -71,3 +71,16 @@ A diagram showing compliance pathways for wood products and forest health projec
 :name: example
 Example projects and CEQA/NEPA compliance. 1: Often added to an existing project where CEQA has been completed. In these cases, project proponents can use existing CEQA analysis and determine no new significant impacts via an addendum to the existing document; 2: Before the training, those lands must have completed CEQA and provide a copy of the analyses to CAL FIRE; 3: Projects submitting NEPA documents that created the biomass would be statutorily exempt from CEQA (AB211 - PRC 4799.05(d)(1)); 4: Projects could utilize the CEQA documents that created the biomass. In some cases, the transport is included in the facility analysis, so the facility impacts CEQA documents can be used if they include the biomass transport to the facility. See CEQA Statutory Exemption 21080(b)(3) and CEQA Guidelines Section 15269(a) for reforestation and emergency exemptions.
 ```
+
+# Glossary
+- EIS/EIR - Environmental Impact Statement/Report
+- FPA/FPR - Forest Practice Act/Rules
+- IS - Initial Study
+- MMRP - Mitigation Monitoring & Reporting Program
+- NOD - Notice of Determination
+- NOE - Notice of Exemption
+- NTMP - Nonindustrial Timber Management Plan
+- FEIR - Final Environmental Impact Report
+- PEIR - Program Environmental Impact Report, PSA - Project-Specific Analysis
+- PTEIR - Program Timberland EIR
+- PTHP - Program Timberland Harvest Plan, THP - Timber Harvest Plan

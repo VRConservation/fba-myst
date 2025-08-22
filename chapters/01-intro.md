@@ -3,7 +3,7 @@ title: Introduction
 subject: FBA Guide
 subtitle:
 short_title: 1. Introduction
-date: 2025-09-01
+date: 2024-04-05
 authors:
   - name: Vance Russell
     affiliations:
@@ -20,7 +20,7 @@ kernelspec:
 exports:
   - format: docx
     template: curvenote
-    output: exports/1-intro.docx
+    output: exports/01-intro.docx
     article_type: Report
 ---
 

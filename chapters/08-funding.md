@@ -3,7 +3,7 @@ title: Funding Forest Businesses
 subject: Funding
 subtitle: An analysis of CAL FIRE's Business and Workforce Development Program grants
 short_title: 8. Funding Analysis
-date: 2025-09-01
+date: 2025-08-22
 authors:
   - name: Vance Russell
     affiliations:
@@ -19,11 +19,11 @@ kernelspec:
 exports:
   - format: docx
     template: curvenote
-    output: exports/8-funding.docx
+    output: exports/08-funding.docx
     article_type: Report
 ---
 
-*Chapter updated to include 2025q1 grant awards, 8/20/25*
+*Chapter updated to include 2025q1 grant awards*
 
 # Findings
 To better understand the geographic distribution, success rates, and funding gaps/needs, the Forest Business Alliance examined CAL FIRE's Business and Workforce Development Grants from the first quarter of 2022 through the first quarter of 2025.[^new]. The analysis of CAL FIRE's Business and Workforce Development Grants Program found the following:

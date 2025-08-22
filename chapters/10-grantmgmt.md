@@ -3,7 +3,7 @@ title: Grant Management
 subject: Project Management
 subtitle: Successful organizations manage grants and donors
 short_title: 10. Grant management
-date: 2025-09-01
+date: 2025-08-22
 authors:
   - name: Christopher Sacco
     affiliations:

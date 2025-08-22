@@ -3,7 +3,7 @@ title: Program Design
 subject: Planning
 subtitle: For clear funding, project management, and measuring success
 short_title: 2. Program Design
-date: 2025-09-01
+date: 2024-04-25
 authors:
   - name: Vance Russell
     affiliations:
@@ -23,7 +23,7 @@ kernelspec:
 exports:
     - format: docx
       template: curvenote
-      output: exports/2-program.docx
+      output: exports/02-program.docx
       article_type: Report
 ---
 
