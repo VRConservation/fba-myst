@@ -36,10 +36,10 @@ Funding for the Forest Business Alliance is provided by the [CAL FIRE Business a
 ```
 
 # Audience
-Businesses, Tribal organizations, nonprofits, and other entities creating sustainable wood product facilities and businesses. The guide offers key insights and advice to access funds. More information and templates for the CAL FIRE Business and Workforce Development and USDA Forest Service Wood Innovation Grants can be found at the [Forest Business Alliance](https://www.forestbusinessalliance.org/) website. Feedback is welcome. Contact us directly at [forestbusinessalliance@gmail.com](mailto:'forestbusinessalliance.com').
+Businesses, Tribal organizations, nonprofits, and other entities are creating sustainable wood product facilities and businesses. The guide provides key insights and advice on accessing funds. More information and templates for the CAL FIRE Business and Workforce Development and USDA Forest Service Wood Innovation Grants can be found at the [Forest Business Alliance](https://www.forestbusinessalliance.org/) website. Feedback is welcome. Contact us directly at [forestbusinessalliance@gmail.com](mailto:'forestbusinessalliance.com').
 
 # Contents
-We will be adding new chapters when they are ready. Please check back regularly!
+We will add new chapters as they become ready. Please check back regularly!
 
 1. Introduction. This chapter. <br>
 2. Program Design. How to create a program or strategy for your organization/business.<br>
@@ -50,5 +50,5 @@ We will be adding new chapters when they are ready. Please check back regularly!
 7. Resilience Gap. An analysis by New Leaf Climate Partners examining fuel reduction needs to decrease risks of severe wildfire for private forest owners in low-income communities in California.<br>
 8. Funding Analysis. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.<br>
 9. Scaling. Scaling forest business and organizational reach and impact.<br>
-10. Grant Management. Now that you have a grant how do you successfully manage it?<br>
+10. Grant Management. Now that you have a grant, how do you successfully manage it?<br>
 11. Cases. [coming soon!] Case studies of successful business and workforce development in California's forest health sector.
