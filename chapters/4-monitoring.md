@@ -3,6 +3,7 @@ title: Monitoring
 subject: Measuring Success
 subtitle: How to measure organizational and business success on a shoestring or when you have little to no budget
 short_title: 4. Monitoring
+date: 2025-09-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -20,9 +21,9 @@ kernelspec:
     name: python3
     display_name: Python 3
 exports:
-    - format: pdf
+    - format: docx
       template: curvenote
-      output: exports/4-monitoring.pdf
+      output: exports/4-monitoring.docx
       article_type: Report
 ---
 

@@ -3,6 +3,7 @@ title: Proposals
 subject: Funding
 subtitle: How to design projects for proposals and cohesive programs
 short_title: 3. Proposals
+date: 2025-09-01
 authors:
   - name: Christopher Sacco
     affiliations:
@@ -20,9 +21,9 @@ kernelspec:
     name: python3
     display_name: Python 3
 exports:
-    - format: pdf
+    - format: docx
       template: curvenote
-      output: exports/3-project.pdf
+      output: exports/3-project.docx
       article_type: Report
 ---
 

@@ -3,6 +3,7 @@ title: Grant Management
 subject: Project Management
 subtitle: Successful organizations manage grants and donors
 short_title: 10. Grant management
+date: 2025-09-01
 authors:
   - name: Christopher Sacco
     affiliations:
@@ -18,14 +19,14 @@ authors:
 license: CC-BY-4.0
 keywords: grants, management, donors
 abstract: |
-  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but fail to manage the most important aspect: the grants they’ve secured and their relationships with funders. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23, 2025, for a wide group of California-based forest business practitioners. We offer a practical case study for reporting automation usable for any type of grant management.
+  Grant management is a critical, often overlooked, aspect of project and organizational management. Many organizations move into implementation and pursue other grants, but fail to manage the most important element: the grants they’ve secured and their relationships with funders. Setting up sound financial management controls, assigning grant management to competent staff, having the same staff manage the entire grant, and looking at reporting as a learning opportunity are critical components of successfully managing grants. This chapter is based on a workshop on July 23, 2025, for a wide group of California-based forest business practitioners. We offer a practical case study for reporting automation usable for any type of grant management.
 kernelspec:
   name: python3
   display_name: Python 3
 exports:
-  - format: pdf
+  - format: docx
     template: curvenote
-    output: exports/2-program.pdf
+    output: exports/10-grantmgmt.docx
     article_type: Report
 ---
 
@@ -116,7 +117,7 @@ CAL FIRE usually requires an activity report with every invoice, and prefers the
 - Use standardized templates and automate portions of your report for accuracy and ease of replication.
 - Always communicate with your grant manager about any issues.
 - Make sure you have backups, especially for financial information
-- Use reporting to benefit your business/organization. **Don't make reporting drudgery!** Take advantage of it to build organizational learning and communications assets. You decide on the reporting format. Sometimes, donors may unnecessarily request a lot or in a challenging format. Work with them constructively to reduce friction, automate processes, and achieve productive outcomes.
+- Use reporting to benefit your business/organization. **Don't make reporting drudgery!** Take advantage of it to build organizational learning and communication assets. You decide on the reporting format. Sometimes, donors may unnecessarily request a lot or in a challenging format. Work with them constructively to reduce friction, automate processes, and achieve productive outcomes.
   :::
 
 ## Financial
@@ -131,7 +132,7 @@ Try the Python automation if you're comfortable using a command-line interface i
 
 :::{tip} Python Example
 :class: dropdown
-We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss]
+We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss].
 
 1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Decide if you want the lightweight command interface, miniconda, or the desktop-based Anaconda.
 2. Open a terminal. In Windows, press the Windows key and type 'terminal,' then open the Terminal app or Windows PowerShell. You should see the following:
@@ -145,7 +146,7 @@ We offer a simple example that requires some setup time but automates your repor
 (base) C:\Users\yourusername> conda create -n auto python
 ```
 
-The terminal will start running, and when it says `Proceed ([y]/n)?` hit enter or y and enter on your keyboard. Conda will download the necessary files and provide instructions for activating or deactivating the new env.
+The terminal will start running, and when it says `Proceed ([y]/n)?` hit enter or y on your keyboard. Conda will download the necessary files and provide instructions for activating or deactivating the new env.
 
 4. Check installation and activate the auto virtual environment.
 
@@ -153,7 +154,7 @@ The terminal will start running, and when it says `Proceed ([y]/n)?` hit enter o
 (base) C:\Users\yourusername> conda env list
 ```
 
-You should see a list of any of the conda environments installed, including auto, and where they are located. The active env should be the base and have an asterisk next to it. Now activate auto:
+You should see a list of the conda environments installed, including auto, and their respective locations. The active env should be the base and have an asterisk next to it. Now activate auto:
 
 ```
 (base) C:\Users\yourusername> conda activate auto
@@ -174,12 +175,32 @@ You should see the following:
 The install will download and install. You can verify the installation by typing `conda list`, and it will appear alongside the other installed packages.
 
 [^foss]: Detailed steps for virtual environment and Visual Studio Code setup can be found in the 1st two appendices of [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
+
+6. Run autorpt:
+
+- Download the budget.xlsx and content.md files from https://github.com/VRConservation/autorpt and store them in a folder of your choosing. 
+- Open the folder, right-click inside it, and select "Open in Terminal".
+- Activate the virtual env by running `conda activate auto` or use whatever name you've decided.
+- On the command line, type `autorpt`.
+- autorpt will run the script, you'll see progress in the terminal, and a report in Word will be produced.
+- The bugs are still being worked out, but you will be able to create a PDF of the report by running `autorpt --pdf` soon.
+- Modify content.md with new information each time you need to create a report. Each time you run autorpt a new version will be made so you can edit drafts and not overwrite previous versions.
+- This is an example only, and we get that you could copy and paste in Word and Excel to create a report, but this eliminates those steps and lets you focus on the report content rather than production. You can also modify the report content with new sections or rename the sections according to your reporting requirements.
 :::
 
-:::{tip} Python Executable Example
+:::{tip} Python Executable AVAILABLE SOON!
 :class: dropdown
 
-Examples with executable and Python gui
+Alternatively, if you're not comfortable using a terminal and command-line interface, and would rather click, you can download autorpt.exe, which opens a user interface with Word and PDF document options ({numref}`gui-fig`). Download [gui.exe](https://github.com/VRConservation/autorpt/blob/main/content.md). Make sure the .exe file is stored in a file with the content.md and budget.xlsx, and the interface will generate the reports for you when pressing the buttons.
+
+PLEASE NOTE THIS IS NOT YET FUNCTIONAL BUT WILL BE AVAILABLE SOON
+
+```{figure} ../figures/gui.png
+:name: gui-fig
+:height: 250px
+Graphical user interface for autorpt.
+```
+Select the report you want to create with content.md and budget.xlsx downloaded from the same [repository](https://github.com/VRConservation/autorpt) that houses the gui.exe and stored in the same folder that you saved the gui.exe and run the executable.
 :::
 
 # Best Practices

@@ -3,6 +3,7 @@ title: Introduction
 subject: FBA Guide
 subtitle:
 short_title: 1. Introduction
+date: 2025-09-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -17,9 +18,9 @@ kernelspec:
   name: python3
   display_name: Python 3
 exports:
-  - format: pdf
+  - format: docx
     template: curvenote
-    output: exports/1-intro.pdf
+    output: exports/1-intro.docx
     article_type: Report
 ---
 

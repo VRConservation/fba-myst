@@ -3,6 +3,7 @@ title: Program Design
 subject: Planning
 subtitle: For clear funding, project management, and measuring success
 short_title: 2. Program Design
+date: 2025-09-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -20,9 +21,9 @@ kernelspec:
     name: python3
     display_name: Python 3
 exports:
-    - format: pdf
+    - format: docx
       template: curvenote
-      output: exports/2-program.pdf
+      output: exports/2-program.docx
       article_type: Report
 ---
 

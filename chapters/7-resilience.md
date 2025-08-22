@@ -3,6 +3,7 @@ title: Resilience Gap
 subject: Treatments
 subtitle: Disadvantaged communities and fuel reduction needs
 short_title: 7. Resilience Gap
+date: 2025-09-01
 authors:
   - name: Veenu King
     affiliations:
@@ -24,9 +25,9 @@ kernelspec:
     name: python3
     display_name: Python 3
 exports:
-    - format: pdf
+    - format: docx
       template: curvenote
-      output: exports/7-resilience.pdf
+      output: exports/7-resilience.docx
       article_type: Report
 ---
 

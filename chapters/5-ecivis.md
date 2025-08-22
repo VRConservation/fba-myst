@@ -3,6 +3,7 @@ title: eCivis
 subject: Management
 subtitle: A cheat sheet to assist you in applying online and managing your approved project
 short_title: 5. eCivis
+date: 2025-09-01
 authors:
   - name: Keri Rinne
     affiliations:
@@ -19,9 +20,9 @@ kernelspec:
     name: python3
     display_name: Python 3
 exports:
-    - format: pdf
+    - format: docx
       template: curvenote
-      output: exports/5-ecivis.pdf
+      output: exports/5-ecivis.docx
       article_type: Report
 ---
 

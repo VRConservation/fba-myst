@@ -3,6 +3,7 @@ title: Funding Forest Businesses
 subject: Funding
 subtitle: An analysis of CAL FIRE's Business and Workforce Development Program grants
 short_title: 8. Funding Analysis
+date: 2025-09-01
 authors:
   - name: Vance Russell
     affiliations:
@@ -16,9 +17,9 @@ kernelspec:
   name: python3
   display_name: Python 3
 exports:
-  - format: pdf
+  - format: docx
     template: curvenote
-    output: exports/8-funding.pdf
+    output: exports/8-funding.docx
     article_type: Report
 ---
 
