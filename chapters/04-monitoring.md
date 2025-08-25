@@ -16,7 +16,7 @@ authors:
 license: CC-BY-4.0
 keywords: monitoring, theory of change, results chains, goals, objectives 
 abstract: |
-  Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability.
+  Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. We will add more information on this.
 kernelspec:
     name: python3
     display_name: Python 3
