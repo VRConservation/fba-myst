@@ -16,7 +16,7 @@ authors:
 license: CC-BY-4.0
 keywords: planning, program, theory of change, results chains, goals, objectives 
 abstract: |
-  The Forest Business Alliance (FBA) created this chapter to help grant seekers, program/project managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). Key concept in program design include mission alignment or explicity designing programs before seeking funding, acknowledging assumptions and testing them with project implementation, planning programs vs. projects, and creating a system for program development and learning.
+  The Forest Business Alliance (FBA) created this chapter to help grant seekers, program/project managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). It addresses key program design concepts, including aligning programs with an organization’s mission before seeking funding, distinguishing between programs and projects, identifying and testing underlying assumptions through implementation, and establishing a system for ongoing program development and learning.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -29,7 +29,7 @@ exports:
 
 (program:reference)=
 ## Key Concepts
-Key concepts in this document include
+Key concepts in this document include:
 
 - **Mission alignment**. Explicitly designing programs before seeking to fund them helps businesses and organizations stay true to their missions. Without a well-designed program aimed at achieving long-term goals, the ever-present need to raise money can push you to pursue funding opportunities that are only peripherally related to your purpose. This "tail wagging the dog" scenario is less likely to occur when your team has gone through a thoughtful design process and has a document to refer back to when deciding whether or not to pursue new opportunities.
 - **Program vs. project**. A project is a set of activities a team implements to achieve a specific objective. A program is a set of related projects, each with its own objectives, that work in concert to achieve a wider goal(s). A team guided by a well-designed program will carefully select projects based on their potential to contribute to institutional goals. Also, thoughtfully choosing projects can allow organizations to maximize finite resources—people, equipment, supplies, and money—thus increasing productivity and operational efficiency.
