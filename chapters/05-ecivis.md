@@ -15,7 +15,7 @@ authors:
 license: CC-BY-4.0
 keywords: project management, reporting, grant submittal 
 abstract: |
-  The Forest Business Alliance (FBA) created this chapter to help grant seekers, program/project managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). Key concept in program design include mission alignment or explicity designing programs before seeking funding, acknowledging assumptions and testing them with project implementation, planning programs vs. projects, and creating a system for program development and learning.
+  This chapter provides a practical guide to using eCivis for applying to and managing CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant Program. It covers both the proposal and post-award stages, including account setup, required forms, budgeting tips, and reporting processes.
 kernelspec:
     name: python3
     display_name: Python 3
