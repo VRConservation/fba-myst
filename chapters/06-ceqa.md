@@ -20,7 +20,7 @@ authors:
 license: CC-BY-4.0
 keywords: planning, compliance, CEQA
 abstract: |
-  Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
+  Environmental compliance can range from simple to complex, costing nominal amounts to ‘a lot’. If you have not started on compliance, we offer some pathways and ideas to get you started. This chapter outlines key routes for meeting CEQA (and sometimes NEPA) requirements, with a decision-making flowchart and practical guidance tailored to forest health and wood products projects.
 kernelspec:
     name: python3
     display_name: Python 3
