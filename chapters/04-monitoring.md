@@ -15,7 +15,7 @@ authors:
     email: chris@aegisconservation.com
 license: CC-BY-4.0
 keywords: monitoring, theory of change, results chains, goals, objectives 
-abstract:
+abstract: |
   This chapter provides practical guidance on implementing Monitoring, Evaluation, Accountability, and Learning (MEAL) strategies with limited resources, emphasizing the importance of aligning monitoring efforts with your theory of change, fostering a culture of learning, and utilizing participatory approaches to enhance project effectiveness and sustainability.
 kernelspec:
     name: python3
