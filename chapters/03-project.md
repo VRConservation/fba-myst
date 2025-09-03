@@ -15,8 +15,8 @@ authors:
     email: vance@3point.xyz
 license: CC-BY-4.0
 keywords: proposals, funding, planning, program, goals, objectives 
-abstract: |
-  Writing proposals is an iterative process, starting with a brief 1-2 page description of the project then shifting to creating a detailed budget, before returning to the proposal details. These details may include scope, deliverables, implementation plan, timeline, and a monitoring plan to measure outcomes and success. We recommend thoroughly fleshing out program design to prioritize which funding proposals to target rather than adhering to any request for proposals available. Being tenacious is key to writing proposals and you may fail at first only to be funded by the same entity later. Failure lets you iterate and improve projects. Always to get feedback from the funding entity when not funded.
+abstract:
+This chapter offers a practical approach to writing strong grant proposals—starting with a short project brief, refining scope and budgets, and using feedback and iteration to improve future submissions.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -35,7 +35,7 @@ The project and proposal development workflow is iterative, like program design,
     - Project goals. The project links to the programmatic theory of change and goals, followed by project goals/objectives.
     - Tasks. These could be listed under project objectives and also called interventions or activities.
 
-Don't worry about fleshing out these sections in detail. When drafting the brief, get the ideas down, and the details can be developed later.
+Don't worry about fleshing out these sections in detail. When drafting the brief, focus on getting the ideas down. The details can be developed later.
 
 ```{tip}
 Nest your goals, objectives, and tasks similar to an outline:
@@ -50,8 +50,8 @@ Nest your goals, objectives, and tasks similar to an outline:
   A. Objective 1
 ```
 
-2. **Budget**. Create a back-of-the-envelope budget broken down by objectives and tasks. You can rough out the costs of tasks by staff, equipment, materials, and other key/generic items. Again, don't worry about details; make some rough estimates. Napkins and a pen at a restaurant are good tools of the trade! Capture your proposal ideas and get rolling.
-3. **Scope**. Draft the proposal narrative or scope of work with a detailed description of tasks and activities by objective, using the brief from step one as a guide. At this point, it is worth adding a GANTT chart as a project timeline to show the project workflow and check if you've stacked too many activities at certain times or if your schedule is too aggressive.
+2. **Budget**. Creating a back-of-the-envelope budget helps quickly estimate a project's basic costs—like staff time, equipment, materials, and key activities, e.g., site assessments, community outreach, training sessions, and report preparation—before investing time in a full proposal. It’s a simple way to test feasibility and guide early planning decisions. Again, don't worry about details, just make some rough estimates. Napkins (or junk mail) and a pen at a restaurant are good tools of the trade! Capture your proposal ideas and get rolling.
+4. **Scope**. Draft the proposal narrative or scope of work with a detailed description of tasks and activities by objective, using the brief from step one as a guide. At this point, it is worth adding a GANTT chart as a project timeline to show the project workflow and check if you've stacked too many activities at certain times or if your schedule is too aggressive.
 
 ## Scope
 Use the brief to flesh out a more detailed project scope and description. Don't be afraid to write and then rewrite various sections. Give each a rest for a few days, then return after working on other sections. Create a checklist from the proposal RFP solicitation package to ensure you don't forget anything. The [Forest Business Alliance](https://www.forestbusinessalliance.org/) has a template checklist that may be useful. 
