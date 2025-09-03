@@ -15,7 +15,7 @@ authors:
     email: vance@3point.xyz
 license: CC-BY-4.0
 keywords: proposals, funding, planning, program, goals, objectives 
-abstract:
+abstract: |
 This chapter offers a practical approach to writing strong grant proposals—starting with a short project brief, refining scope and budgets, and using feedback and iteration to improve future submissions.
 kernelspec:
     name: python3
