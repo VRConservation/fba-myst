@@ -16,7 +16,7 @@ authors:
 license: CC-BY-4.0
 keywords: proposals, funding, planning, program, goals, objectives 
 abstract: |
-This chapter offers a practical approach to writing strong grant proposals—starting with a short project brief, refining scope and budgets, and using feedback and iteration to improve future submissions.
+  This chapter offers a practical approach to writing strong grant proposals—starting with a short project brief, refining scope and budgets, and using feedback and iteration to improve future submissions.
 kernelspec:
     name: python3
     display_name: Python 3
@@ -27,7 +27,7 @@ exports:
       article_type: Report
 ---
 
-# Project
+# Iterative Design
 The project and proposal development workflow is iterative, like program design, similar to the budget process described in the budget section. In general, we suggest the following workflow to develop projects or a proposal:
 
 1. **Brief**. Create a 1-2 page brief with the following sections:
