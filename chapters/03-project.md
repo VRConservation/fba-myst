@@ -27,7 +27,7 @@ exports:
       article_type: Report
 ---
 
-# Workflow
+# Project
 The project and proposal development workflow is iterative, like program design, similar to the budget process described in the budget section. In general, we suggest the following workflow to develop projects or a proposal:
 
 1. **Brief**. Create a 1-2 page brief with the following sections:
