@@ -1,5 +1,5 @@
 ---
-title: Washoe Tribe Elder, Share & Sale Firewoood Program
+title: Washoe Tribe Elder, Share & Sale Firewood Program
 subject: Cases
 subtitle: A Tribal model for energy security & forest resilience
 short_title: Washoe Tribal Firewood
