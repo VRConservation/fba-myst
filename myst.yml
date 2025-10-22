@@ -29,7 +29,7 @@ project:
     - file: chapters/08-funding.md  
     - file: chapters/09-scale.md
     - file: chapters/10-grantmgmt.md
-    - file: chapters/11-pathways.md
+    # - file: chapters/11-pathways.md
     - title: 12. Case Studies
       children:
         - file: chapters/cases/washoe.md  

@@ -85,3 +85,6 @@ After simple solutions, there are solutions that will be more difficult to attai
 # Lessons
 
 # Resources
+
+# Notes
+Spitballing and budget early stage / pre concept stage. Write a one-pager white paper with a budget. Does this even make sense?
