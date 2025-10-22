@@ -34,6 +34,9 @@ exports:
 4. **Feedstock agreements**. Make sure to secure long-term feedstock agreements from the landowner where your wood is sourced. It can be exceptionally difficult to arrange terms longer than three years with public agencies, so the earlier you start, the better. For more detail on this topic and potential solutions, see @russell_jpa.
 5. **Funding**. This is the big one, and the most challenging. However, if you organize your plans, your pitch deck, and your business idea is good and fills a key need, the funding will come. Don't confuse funding and finance, they're two very different things, but you need to do both. There are many options for collaborative finance in the forestry and water worlds [@russell_odefey].
 
+# Introduction
+Describe the key differences in program design vs. feasibility and viable project design (Regine email)
+
 # Challenges
 We often go straight to funding when it comes to challenges and one of the biggest challenges can be unreasonable requests for RFPs from funding agencies ({numref}`jerry`). Yes, you do have something that is going to change the world. So why isn't everyone funding it? Maybe you don't have a theory of change!
 
@@ -53,6 +56,8 @@ Other challenges include the following:
 :::{attention} Recommendations to Funders
 :class: dropdown
 
+Other main startup challenge: coming up with your own money to fund the project. CAL FIRE program comes in here
+
 Putting together proposals in response to foundations and government agency requests for proposals (RFPs) can often be an arduous or torturous process. It doesn’t have to be this way, and some foundations and agencies are much better at it than others. They vary so widely it’s hard to make generalizations, but the best pay more attention to process and capacity building. Here are our suggestions for funders:
 
 1. **Streamline the initial application process**. One page: tasks, budget, qualifications. That’s it! Details later! Don't make grantees answer 17 questions and develop a 50 page proposal for funding they may have a small change of securing. That's not fair to them or reviewers.
@@ -63,28 +68,55 @@ Putting together proposals in response to foundations and government agency requ
 :::
 
 # Simple solutions
-There are some solutions that seem obvious and are simple, but many businesses don't take them seriously. The first example is writing a clear, compelling, and readable business plan. Don't use ChatGPT to write this. This isn't a joke, FBA has reviewed some business plans that were probably written by ChatGPT. Let's run through these in the following sections
+There are some solutions that seem obvious and are simple, but many businesses don't take them seriously. The first example is writing a clear, compelling, and readable business plan. Don't use ChatGPT to write this. This isn't a joke, FBA has reviewed some business plans that were probably written by ChatGPT. For immediate impact, these could include:
 
-## Theory of change
-
-## Business plan
-
-## Pitch deck
-
-## Measuring success
+1. Theory of change
+2. Business plan. 
+3. Measuring success plan.
 
 # Advanced solutions
 After simple solutions, there are solutions that will be more difficult to attain or implement, but are worth the effort. These could include things like an equitable staffing structure, ramping up finance rounds beyond startup stage, and realistically costing out how your business is going to scale.
 
-## Staffing
+1. Staffing
+2. Finance 202
+3. Scaling
 
-## Finance 202
+# Project pathway
+discuss the development pathway/stages/steps, the types of expertise that are needed to support a project achieving these steps, common pitfalls or hurdles, example projects/case studies, grant funding opportunities to support project development, free TA resources, etc. I don't think we should dive into pitch decks and success monitoring because these are associated with late stage development.
 
-## Scaling
+## I. Back-of-the-envelope
+spitballing stage for the initial idea that precedes the pre-concept.  
 
-# Lessons
+## II. Pre-concept
+- Establishing a vision and project concept, goals and objectives
+- Identification of technology options and preferred option
+- Site and infrastructure evaluation
+- Feedstock volume and pricing assessment
+- Identification of the permitting pathway
+- High level financial analysis (capex, opex, potential sources of capital, market demand/pricing, sensitivities)
+- Partner mapping/initial engagement
+- Establishing a preliminary project schedule
+
+## III. Feasiblity
+- Securing site control
+- Preliminary engineering and design for the preferred tech, and a third party review of it
+- Detailed financial analysis
+- Establishing the appropriate business structure
+- Further feedstock and market analyses, if needed
+- Securing feedstock supply letters of intent/contracts
+- Securing offtake letters of intent/contracts
+- Identification and initial pursuit of capital stack
+- Refine and maintain the Gantt
+- Partner/stakeholder engagement
+
+## IV. Late Stage
+- Final engineering/design
+- Construction and operating permits
+- Complete lender/investor requirements and financial close
+- Establish construction schedule and plan
+- Procue long-lead equipment
+- Pitch deck
+
+## V. Up & running
 
 # Resources
-
-# Notes
-Spitballing and budget early stage / pre concept stage. Write a one-pager white paper with a budget. Does this even make sense?
