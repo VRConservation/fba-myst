@@ -37,7 +37,7 @@ At the same time, the horticulture industry relies on vast quantities of potting
 
 Plumas Wood Fiber emerged at the intersection of these trends. The company sees market demand from California’s growers and substrate blenders for a locally sourced substitute that matches peat’s horticultural performance while avoiding peat’s environmental and supply-chain drawbacks. Early analytical work with academic partners and the Conservation X Labs Fire Grand Challenge pilot funding allowed Plumas Wood Fiber to explore whether western conifer species can meet the physical properties required for potting mixes. The preliminary results and stakeholder interest signaled a viable market and a compelling circular solution: chip material from hazardous fuels-reduction projects converted into a valuable horticultural input that reduces transport emissions and helps finance forest treatments ({numref}`samples`).
 
-:::{figure} figures/pwf/samples.jpg
+:::{figure} /figures/pwf/samples.jpg
 :name: samples
 :height: 400px
 Sample wood fiber substrate produced by Plumas Wood Fiber.
