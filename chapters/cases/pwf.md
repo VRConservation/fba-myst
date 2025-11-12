@@ -37,7 +37,7 @@ At the same time, the horticulture industry relies on vast quantities of potting
 
 Plumas Wood Fiber emerged at the intersection of these trends. The company sees market demand from California’s growers and substrate blenders for a locally sourced substitute that matches peat’s horticultural performance while avoiding peat’s environmental and supply-chain drawbacks. Early analytical work with academic partners and the Conservation X Labs Fire Grand Challenge pilot funding allowed Plumas Wood Fiber to explore whether western conifer species can meet the physical properties required for potting mixes. The preliminary results and stakeholder interest signaled a viable market and a compelling circular solution: chip material from hazardous fuels-reduction projects converted into a valuable horticultural input that reduces transport emissions and helps finance forest treatments ({numref}`samples`).
 
-:::{figure} ../../figures/pwf/samples.jpg
+:::{figure} figures/pwf/samples.jpg
 :name: samples
 :height: 400px
 Sample wood fiber substrate produced by Plumas Wood Fiber.
@@ -57,14 +57,14 @@ These factors combine to lower delivered cost and greenhouse‑gas footprint whi
 # Scaling
 Plumas Wood Fiber is moving deliberately from pilot validation toward commercial scale. The pilot phase used grant funding to produce hammer‑milled fiber in partnership with Real Good Soil and distribute samples to roughly twenty horticultural stakeholders and academic partners for growth trials. Those trials, together with lab testing led by a university horticultural substrates lab, form the evidence base required to convince large buyers to adopt a new substrate.
 
-:::{figure} ../../figures/pwf/hammer.jpg
+:::{figure} /figures/pwf/hammer.jpg
 :name: hammer
 Plumas Wood Fiber using hammer mill to produce sample substrate for growth trials.
 :::
 
 In the pilot phase, Plumas Wood Fiber used hammer‑milling ({numref}`hammer`) to produce sample fiber for growth trials ({numref}`growth`). Operational scaling requires a purpose-built site and specialized equipment, including twin‑screw extruders and automated baling lines that convert chips into an engineered fiber that mimics the drainage, aeration, and moisture-retention characteristics of peat ({numref}`extruders`). 
 
-:::{figure} ../../figures/pwf/growth.jpg
+:::{figure} /figures/pwf/growth.jpg
 :name: growth
 :height: 500px
 Growth trials at North Carolina State University.
@@ -72,7 +72,7 @@ Growth trials at North Carolina State University.
 
 In addition to extruders, production lines, and robotic baling and palletizing, commercial production requires a large chip-receiving yard and material-handling equipment. To reduce capital and operational expenses, the company is planning to co-locate its production facility with a biomass energy generation plant to be installed in Quincy, California, by West Biofuels of Woodland, California.
 
-:::{figure} ../../figures/pwf/extruders.jpg
+:::{figure} /figures/pwf/extruders.jpg
 :name: extruders
 :height: 500px
 Fiber extruder at a wood fiber substrate production facility in Amsterdam. Plumas Wood Fiber’s facility will include a similar production line.
@@ -83,7 +83,7 @@ Once large-scale production begins, Plumas Wood Fiber will target commercial nur
 # Partnerships
 Partnerships are central to Plumas Wood Fiber’s strategy, providing technical validation, feedstock access, pilot capacity, and financing pathways that together de‑risk scaling and accelerate market entry. On the research front, the company partnered with Dr. Brian Jackson at the Horticultural Substrates Laboratory, NC State Raleigh, to analyze western species—most notably Ponderosa pine—and confirm their compatibility and performance as engineered potting substrate ({numref}`students`). That scientific validation underpins the company’s credibility with conservative horticultural buyers.
 
-:::{figure} ../../figures/pwf/students.jpg
+:::{figure} /figures/pwf/students.jpg
 :name: students
 North Carolina State students working with wood chip samples from Plumas Wood Fiber.
 :::
@@ -102,10 +102,10 @@ Plumas Wood Fiber’s products provide multiple environmental benefits, beginnin
 
 Plumas Wood Fiber’s model repurposes excess biomass from preventative fuel reduction and post-fire salvaging projects—material that might otherwise be burned, left to decay, or used in low-value energy applications—into a soil-enhancing product that temporarily stores carbon and improves plant-growing media. Commercial-scale substrate production supports wildfire mitigation and recovery by creating consistent market demand for biomass generated through fuels treatments and salvage harvesting. This demand can help finance additional forest management activities and incentivize contractor capacity to scale up forest-thinning and salvage operations. Under the planned facility configuration (two extruders operating on double shifts), Plumas Wood Fiber estimates it will utilize approximately 10,000 bone dry tons (BDT) of chips annually. While carbon accounting depends on variables such as avoided combustion, decomposition rates, and soil carbon dynamics, this volume represents a meaningful contribution to carbon management at the facility level.
 
-:::{figure} ../../figures/pwf/bunker.jpg
+:::{figure} /figures/pwf/bunker.jpg
 :name: bunker
 :height: 400px
-Peat storage bunker.
+Wood fiber storage bunker in the Netherlands.
 :::
 
 ## Social

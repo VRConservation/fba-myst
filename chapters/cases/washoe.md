@@ -47,7 +47,7 @@ These environmental changes have direct impacts on the daily lives of Washoe peo
 
 In response to these overlapping ecological and human challenges, the Washoe Tribe has launched initiatives to protect the land and its people. These include longstanding wildfire restoration and resilience, river and meadow restoration projects managed by the Washoe Environmental Protection Department, as well as the complementary Washoe Tribe Roads Department’s Elder, Share & Sale Firewood Program. By restoring forest lands and use of beneficial fire and ensuring safe, equitable access to heating resources, the Tribe is working to reclaim stewardship practices disrupted by centuries of colonial policy—reviving a more sustainable relationship between land and community.
 
-:::{figure} ../../figures/washoe/1_jacob.png
+:::{figure} /figures/washoe/1_jacob.png
 :name: jake
 Jacob Vann, Elder, Share & Sale Program crewmember, at Washoe Wood Yard. Photo by Kaleb Roedel, Mountain West News Bureau.
 :::
@@ -71,7 +71,7 @@ While the Washoe had made significant investments and secured grant funding, the
 
 In response to these challenges, the Washoe Tribe sought grant funding to replace outdated equipment and adequately staff the program. In 2023, the Tribe secured a $1 million grant from the USFS, enabling it to transition its six-person, part-time, seasonal crew to full-time, year-round positions. The grant also funded the purchase of industrial-grade wood processing equipment, including a gas-powered firewood processor, a commercial log splitter with a lift and conveyor system, a skid-steer loader with log grapple and stump buster attachments, a dump bed log trailer with grapple, a telehandler forklift, and an electric wrapper ({numref}`wrap`).
 
-:::{figure} ../../figures/washoe/2_wrapper.png
+:::{figure} /figures/washoe/2_wrapper.png
 :name: wrap
 :height: 500px
 Field crew member operating electric wrapper at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -79,7 +79,7 @@ Field crew member operating electric wrapper at Washoe Wood Yard. Photo by Scott
 
 The firewood processor and industrial splitters allow for rapid processing of logs of all diameters ({numref}`split`). The skid-steer loader helps maintain a steady workflow for the wood processor, while the telehandler forklift speeds up the loading of firewood bags onto trailers and their efficient delivery to elders' homes ({numref}`telehandle`). The electric wrapper bundles and wraps the firewood, making it easier to handle and deliver individual bundles as needed.
 
-:::{figure} ../../figures/washoe/3_splitter.png
+:::{figure} /figures/washoe/3_splitter.png
 :name: split
 :height: 500px
 Field crew member operating industrial wood splitter at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -87,7 +87,7 @@ Field crew member operating industrial wood splitter at Washoe Wood Yard. Photo 
 
 At current operating status, 883 CCF of raw materials per year are procured and processed into over 1,000 cords annually. Raw materials include sub-merchantable and non-merchantable small diameter logs (generally <12" DBH) – lodgepole, Jeffrey, and ponderosa pine with minor amounts of red and white fir. With the addition of the Sale component in June 2024, the Tribe has been able to sell enough wood to partially cover the field crew's salaries. The Elder, Share & Sale Firewood Program currently employs six Tribe members, yet because the Program is not yet self-sustaining year-round, crew members also support the USFS Meek Meadows Restoration Project and the Lake Tahoe Basin Management Unit Good Neighbor Authority Thinning Project during summer months.
 
-:::{figure} ../../figures/washoe/4_tele.png
+:::{figure} /figures/washoe/4_tele.png
 :name: telehandle
 :height: 500px
 Field crew member operating telehandler at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -103,7 +103,7 @@ The Tribe has identified a key gap in the need for a full-time program manager t
 
 The Elder & Share Firewood Program is not just about keeping homes warm. It also plays a vital role in forest management ({numref}`tour`). Firewood is harvested from overgrown or burn-scarred landscapes—areas where fuel accumulation poses a significant wildfire risk. The Program procures 98% of its feedstock from vegetation thinning, fire salvage, and habitat restoration projects on federal lands, including the Lake Tahoe Basin Management Unit, Eldorado National Forest, Tahoe National Forest, and Humboldt-Toiyabe National Forest. Scaled up to 2,000 cords per year, the Program will contribute to restoring and reducing wildfire risk on 160 acres annually.
 
-:::{figure} ../../figures/washoe/5_tour.png
+:::{figure} /figures/washoe/5_tour.png
 :name: tour
 :height: 500px
 FBA/CAL FIRE-supported tour of Washoe Wood Yard. Photo by Regine Miller, FBA.
