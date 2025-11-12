@@ -51,4 +51,4 @@ We will add new chapters as they become ready. Please check back regularly!
 8. Funding Analysis. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.<br>
 9. Scaling. Scaling forest business and organizational reach and impact.<br>
 10. Grant Management. Now that you have a grant, how do you successfully manage it?<br>
-11. Cases. Case studies of successful business and workforce development in California's forest health sector. The first case features the Washoe Tribe's Elder, Share & Sale Firewood Program. More to come soon.
+11. Cases. Case studies of successful business and workforce development in California's forest health sector. The first case featured the Washoe Tribe's Elder, Share & Sale Firewood Program followed by Plumas Wood Fiber. More to come soon.
