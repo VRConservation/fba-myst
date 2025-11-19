@@ -67,7 +67,7 @@ In the pilot phase, Plumas Wood Fiber used hammer‑milling ({numref}`hammer`) t
 :::{figure} /figures/pwf/growth.jpg
 :name: growth
 :height: 500px
-Growth trials at North Carolina State University.
+Growth trials at Texas A&M University. Credit: Paul Winski.
 :::
 
 In addition to extruders, production lines, and robotic baling and palletizing, commercial production requires a large chip-receiving yard and material-handling equipment. To reduce capital and operational expenses, the company is planning to co-locate its production facility with a biomass energy generation plant to be installed in Quincy, California, by West Biofuels of Woodland, California.
@@ -137,4 +137,4 @@ Plumas Wood Fiber has proven the technical and commercial potential of convertin
 # Credits
 We recognize and celebrate the innovation and leadership of Plumas Wood Fiber for advancing a practical, circular solution that converts excess forest biomass into a high‑quality, peat‑free horticultural substrate while strengthening regional wildfire resilience. We also extend our deep gratitude to [CALFIRE's Business and Workforce Development Program](https://www.fire.ca.gov/what-we-do/grants/business-and-workforce-development-grants) for funding the Forest Business Alliance’s work with [Plumas Wood Fiber](https://www.plumaswoodfiber.com/), [Real Good Soil](https://realgoodsoil.com/), and other community forestry partners across California. Rural and Tribal communities engaged in the forest products sector can benefit from resources, such as the Forest Business Alliance [Guidebook](https://3point.xyz/fba-myst), the [Forest Business Alliance website](https://www.forestbusinessalliance.org/), and upcoming Forest Business Alliance [workshops](https://www.forestbusinessalliance.org/workshops).
 
-All photos in figures by Jeff Greef.
+Unless indicated, all photos in figures by Jeff Greef.
