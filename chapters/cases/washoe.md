@@ -24,6 +24,7 @@ exports:
 ---
 
 # Takeaways
+
 - **Culturally Grounded Solutions**. The Washoe Tribe’s Elder, Share & Sale Firewood Program addresses energy insecurity through a culturally rooted, community-driven approach that prioritizes elder care and traditional lifeways.
 - **Integrated Environmental & Social Impact**. By sourcing firewood from forest thinning and restoration projects, the Program reduces wildfire risk and helps restore landscapes.
 - **Innovative Cross-Subsidy Model**. A three-part structure—free firewood for elders, low-cost wood for disadvantaged households, and commercial sales—ensures equitable energy access and generates revenue to sustain operations.
@@ -31,6 +32,7 @@ exports:
 - **Replicable & Scalable Solution**. The Washoe Tribe’s strategic investment of tribal resources, use of grant funds, and development of partnerships with restoration programs demonstrates a scalable approach for other tribal and rural communities.
 
 # Context
+
 The Washoe Tribe of Nevada and California, a federally recognized tribe of approximately 1,400 members, stewards ancestral homelands spanning some 64,300 acres across Alpine County, California, and Carson City, Douglas and Washoe Counties, Nevada—centered around Lake Tahoe (Dá’aw). For over 10,000 years, the Washoe people have maintained a reciprocal relationship with their environment, using fire as a vital tool for forest management, plant regeneration, and cultural practices like pinenut harvesting from piñon trees. This deep ecological knowledge fostered a balanced, adaptive system of land stewardship.
 
 This long-standing relationship was disrupted by the westward expansion of European-American settlers who brought with them a fundamentally different worldview—one that saw land not as a living partner, but as "wilderness" that needed to be tamed. The settler colonial system prioritized ownership, resource extraction, and human domination over the environment. As part of this shift, settlers actively suppressed indigenous fire practices, viewing fire as inherently destructive rather than regenerative.
@@ -47,15 +49,17 @@ These environmental changes have direct impacts on the daily lives of Washoe peo
 
 In response to these overlapping ecological and human challenges, the Washoe Tribe has launched initiatives to protect the land and its people. These include longstanding wildfire restoration and resilience, river and meadow restoration projects managed by the Washoe Environmental Protection Department, as well as the complementary Washoe Tribe Roads Department’s Elder, Share & Sale Firewood Program. By restoring forest lands and use of beneficial fire and ensuring safe, equitable access to heating resources, the Tribe is working to reclaim stewardship practices disrupted by centuries of colonial policy—reviving a more sustainable relationship between land and community.
 
-:::{figure} /figures/washoe/1_jacob.png
+:::{figure} ../../figures/washoe/1_jacob.png
 :name: jake
 Jacob Vann, Elder, Share & Sale Program crewmember, at Washoe Wood Yard. Photo by Kaleb Roedel, Mountain West News Bureau.
 :::
 
 # Firewood program
+
 The Washoe Elder, Share & Sale Firewood Program combines environmental stewardship and cultural responsibility with economic sustainability to meet the heating needs of tribal elders and other tribe members ({numref}`jake`).
 
 ## Overview
+
 The “Elder” component functions much like a food bank, but instead of food, it delivers at least three cords of firewood—valued at roughly $900—to each Washoe elder at no cost, helping them stay warm through harsh Sierra Nevada winters.[^3] The “Share” component provides firewood, at cost, to nearby tribes and disadvantaged Washoe members not eligible for the elder program. Finally, the “Sale” aspect, introduced in 2024, refers to the program’s cross-subsidy model, where surplus firewood—beyond what is needed for Elder and Share recipients—is sold at local gas stations, grocery stores, and campground supply shops. For every cord sold, the program funds the processing and delivery of another cord to an elder.
 
 [^3]: Kaleb Roebel. 2025. “How the Washoe Tribe built a business to sustain a firewood bank for their elders.” KUNR Public Radio. May 19.
@@ -63,6 +67,7 @@ The “Elder” component functions much like a food bank, but instead of food, 
 By linking commerce with care, the program prioritizes elder well-being while maintaining financial sustainability. Furthermore, it provides employment opportunities for tribe members, sustains forest stewardship and wood-burning practices that connect both youth and elders to their heritage and nature, and contributes to environmental stewardship by sourcing wood from thinning, fire salvage, and habitat restoration projects in the region.
 
 ## Evolution
+
 The Program emerged out of a 2008 community-driven, volunteer effort where tribe members would gather and split firewood from local forests and donate bundles to elders. However, this informal model could not meet the demand—limited volunteers and an inconsistent supply of fuel wood meant that not all elders received sufficient firewood each winter. A major turning point came in 2021, when members volunteered to take logs damaged by the Tamarack Fire from the USFS. The Tribe invested its own resources to buy trucks and flatbed trailers and hire a part-time, seasonal crew. It also received a federal grant under the American Rescue Plan Act to purchase an excavator to unload trucks and to safely deck and manage the large logs, as well as chainsaws, personal protective equipment, and other firewood processing tools and equipment.
 
 By 2022, the Elder component was providing three to four cords of firewood to over 160 Washoe Tribe Elders, and the Share component was supporting another 140+ Elders from other tribes who were struggling to afford the growing cost of firewood.
@@ -71,7 +76,7 @@ While the Washoe had made significant investments and secured grant funding, the
 
 In response to these challenges, the Washoe Tribe sought grant funding to replace outdated equipment and adequately staff the program. In 2023, the Tribe secured a $1 million grant from the USFS, enabling it to transition its six-person, part-time, seasonal crew to full-time, year-round positions. The grant also funded the purchase of industrial-grade wood processing equipment, including a gas-powered firewood processor, a commercial log splitter with a lift and conveyor system, a skid-steer loader with log grapple and stump buster attachments, a dump bed log trailer with grapple, a telehandler forklift, and an electric wrapper ({numref}`wrap`).
 
-:::{figure} /figures/washoe/2_wrapper.png
+:::{figure} ../../figures/washoe/2_wrapper.png
 :name: wrap
 :height: 500px
 Field crew member operating electric wrapper at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -79,7 +84,7 @@ Field crew member operating electric wrapper at Washoe Wood Yard. Photo by Scott
 
 The firewood processor and industrial splitters allow for rapid processing of logs of all diameters ({numref}`split`). The skid-steer loader helps maintain a steady workflow for the wood processor, while the telehandler forklift speeds up the loading of firewood bags onto trailers and their efficient delivery to elders' homes ({numref}`telehandle`). The electric wrapper bundles and wraps the firewood, making it easier to handle and deliver individual bundles as needed.
 
-:::{figure} /figures/washoe/3_splitter.png
+:::{figure} ../../figures/washoe/3_splitter.png
 :name: split
 :height: 500px
 Field crew member operating industrial wood splitter at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -87,7 +92,7 @@ Field crew member operating industrial wood splitter at Washoe Wood Yard. Photo 
 
 At current operating status, 883 CCF of raw materials per year are procured and processed into over 1,000 cords annually. Raw materials include sub-merchantable and non-merchantable small diameter logs (generally <12" DBH) – lodgepole, Jeffrey, and ponderosa pine with minor amounts of red and white fir. With the addition of the Sale component in June 2024, the Tribe has been able to sell enough wood to partially cover the field crew's salaries. The Elder, Share & Sale Firewood Program currently employs six Tribe members, yet because the Program is not yet self-sustaining year-round, crew members also support the USFS Meek Meadows Restoration Project and the Lake Tahoe Basin Management Unit Good Neighbor Authority Thinning Project during summer months.
 
-:::{figure} /figures/washoe/4_tele.png
+:::{figure} ../../figures/washoe/4_tele.png
 :name: telehandle
 :height: 500px
 Field crew member operating telehandler at Washoe Wood Yard. Photo by Scott Burdette, USFS.
@@ -103,7 +108,7 @@ The Tribe has identified a key gap in the need for a full-time program manager t
 
 The Elder & Share Firewood Program is not just about keeping homes warm. It also plays a vital role in forest management ({numref}`tour`). Firewood is harvested from overgrown or burn-scarred landscapes—areas where fuel accumulation poses a significant wildfire risk. The Program procures 98% of its feedstock from vegetation thinning, fire salvage, and habitat restoration projects on federal lands, including the Lake Tahoe Basin Management Unit, Eldorado National Forest, Tahoe National Forest, and Humboldt-Toiyabe National Forest. Scaled up to 2,000 cords per year, the Program will contribute to restoring and reducing wildfire risk on 160 acres annually.
 
-:::{figure} /figures/washoe/5_tour.png
+:::{figure} ../../figures/washoe/5_tour.png
 :name: tour
 :height: 500px
 FBA/CAL FIRE-supported tour of Washoe Wood Yard. Photo by Regine Miller, FBA.
@@ -112,9 +117,11 @@ FBA/CAL FIRE-supported tour of Washoe Wood Yard. Photo by Regine Miller, FBA.
 Finally, to support long-term stewardship of Washoe ancestral lands and develop the next generation of land managers, the Tribe’s Woodfords Hung A Lel Ti Community launched the Washoe Tribe Youth Conservation Corps in 2023, with a $3 million grant from the California Conservation Corps’ Tribal Nature-Based Solutions Program. The Corps’ restoration and workforce training efforts align closely with the Elder, Share & Sale Program’s forest-health goals and serve as a pipeline for culturally grounded, skilled workers. As the Corps expands its operations, this program reinforces the Tribe’s long-term vision of intergenerational stewardship, ecological resilience, and program sustainability.
 
 # Lessons learned
+
 The Washoe Tribe’s Elder & Share Firewood Program offers a powerful example of how tribal communities can combine cultural values, environmental stewardship, and economic innovation to meet community needs. Built on a foundation of resilience and adaptability, the Program has grown from an ad hoc, volunteer effort into a year-round operation that supports elder well-being, forest restoration, and workforce development—providing key lessons for others seeking to launch or expand similar initiatives:
 
 1. **Start-up & infrastructure**
+
 - Secure start-up funding (e.g., through grants or financing) to purchase essential equipment.
 - Assess local infrastructure and identify regional limitations (e.g., lack of equipment to transport logs and the absence of nearby sawmills[^4]) early in the planning process.
 - Invest in durable, portable processing equipment to allow for on-site firewood manufacturing, including in remote or post-fire areas, as well as mobile equipment (e.g., trucks, excavator, skid steer), trailers, and bulk firewood bags or bins.
@@ -122,20 +129,24 @@ The Washoe Tribe’s Elder & Share Firewood Program offers a powerful example of
 [^4]: “Trump timber policies could boost tribal revenues, but infrastructure gaps remain”. Tribal Business News. August 10, 2025.
 
 2. **Operational Sustainability**
+
 - Develop a self-financing business model (e.g., cross-subsidizing elder deliveries by selling firewood commercially).
 - Plan for equipment maintenance and replacement, anticipating wear and high utilization.
 - Build a future pipeline of skilled workers.
 - Build partnerships with federal agencies, nonprofits, local forestry contractors, and restoration programs to create stable supply chains.
 
 3. **Collaboration & Advocacy**
+
 - Engage with platforms, such as the Forest Business Alliance’s peer learning network, and participate in site visits, to learn and share expertise.
 - Advocate for policy changes that improve tribal access to forest lands and reduce restrictions on wood marketing and transportation.
 - Push for increased state and federal investment, especially to close the funding gap in tribal forestry programs and wood infrastructure.
 
 # Leading by example
+
 The Washoe Tribe’s Program offers a compelling model for other Indigenous and rural communities across the West. It demonstrates that when Indigenous knowledge, community innovation, and partner support come together, the results can be transformative—not just for the land, but for the people who call it home. The Tribe’s experience also underscores the long-term cultural and ecological damage caused by fire suppression policies. The 2025 Conner Fire, which destroyed tribal homes and vital infrastructure, devastated generations-old pine nut groves—key to Washoe cultural traditions and food sovereignty. Some of these trees take over 60 years to regenerate, and elders recall harvest areas that once sustained families, now lost to mismanagement or wildfire. This loss highlights the urgency of restoring Indigenous fire stewardship—not only as a tool for healthier landscapes, but to sustain cultural identity and community self-reliance. The Elder, Share & Sale Firewood Program is more than a heating solution. It is a working example of tribal self-determination in action—linking economic resilience, cultural continuity, and land stewardship. With the right tools, support, and leadership, other communities can build similarly grounded, self-sustaining programs that restore balance to both people and place.
 
 # Credits
+
 We recognize and celebrate the Washoe Tribe of Nevada and California—their leaders, crew members, and entire community—for their vision and dedication to make the Elder, Share & Sale Firewood Program a reality. Their unwavering commitment to cultural continuity, community care, and ecological restoration lies at the heart of the Program’s success and stands as a powerful example for other communities.
 
 We also extend our sincere gratitude to CAL FIRE for funding Forest Business Alliance’s work with tribal and community forestry partners across California. This support enabled us to provide crucial technical assistance that helped the Washoe Tribe secure a major 2025 USFS grant—an investment that has significantly increased the Tribe’s capacity to meet community heating needs while promoting sustainable forest stewardship. FBA is proud to have contributed, in a small way, to supporting the Washoe Tribe in the development and expansion of this innovative program.
