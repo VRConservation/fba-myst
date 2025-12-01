@@ -87,7 +87,7 @@ After simple solutions, there are solutions that will be more difficult to attai
 discuss the development pathway/stages/steps, the types of expertise that are needed to support a project achieving these steps, common pitfalls or hurdles, example projects/case studies, grant funding opportunities to support project development, free TA resources, etc. I don't think we should dive into pitch decks and success monitoring because these are associated with late stage development.
 
 ## I. Back-of-the-envelope
-spitballing stage for the initial idea that precedes the pre-concept.  
+Spitballing stage for the initial ideas that precedes the pre-concept.  
 
 ## II. Pre-concept
 - Establishing a vision and project concept, goals and objectives
@@ -122,3 +122,10 @@ spitballing stage for the initial idea that precedes the pre-concept.
 ## V. Up & running
 
 # Resources
+
+
+From the Biomass newsletter sent from Martin on Nov 25, 2025:
+
+Wood Products Campus Siting and Financial Risk Analysis. As part of the South Central Sierra feedstock aggregation pilot project (https://californiaforestproducts.org/fapps/) sponsored by the California Governor’s Office of Land Use and Climate Innovation (LCI), Wildephor Consulting Services has published a siting and financial risk analysis report (https://californiaforestproducts.org/wp-content/uploads/2025/11/SCS_SitingandFinancialRiskAnalysis_20250831.pdf) and presented (https://californiaforestproducts.org/wp-content/uploads/2025/11/SCS_SitingandFinancialRiskAnalysis_slidedeck_20250825.pdf) the results of their work at the LCI cohort meeting held on August 25th. The study included three elements: 1) a biomass feedstock supply analysis; 2) a biomass feedstock storage model; and 3) a biomass project financial risk analysis. The feedstock supply analysis incorporates advanced geospatial modeling to evaluate the viability of three candidate wood products campus sites based on their economically available feedstock supplies from forest residues and orchard removals. The feedstock storage model offers an approach to estimating the size requirement and capital cost of building a covered feedstock storage facility for a wood products campus. Finally, the project financial risk analysis presents a new, more rigorous method of accounting for uncertainties in the estimated capital and operating costs of a proposed wood products business, including the development of a financial sensitivity analysis approach to allow project owners and investors to proactively de-risk biomass utilization projects. The proprietary methodology, termed a Biomass Utilization Financial Feasibility and Sensitivity (BUFFSTM) analysis, represents a step change in the analytical toolkit available to prospective developers of biomass utilization projects in California and beyond.
+
+LCI feedstock pilots: https://californiaforestproducts.org/fapps/
