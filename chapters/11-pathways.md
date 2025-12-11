@@ -27,8 +27,6 @@ exports:
     article_type: Report
 ---
 
-PUT TOGETHER SLIDE DECK FOR THE WORKSHOP
-
 # Takeaways
 1. **Business plan.** Develop a clear business plan with a vision, achievable objectives, scalable expansion, and brief but accurate finance plan.
 2. **Networking**. Network across professional in the field to see their approaches, how they've solved problems, and develop and possible partnerships. 
@@ -51,9 +49,10 @@ Other challenges include the following:
 
 1. **Lean funding & finance opportunities**. Many grant opportunities are geared towards nonprofits. CAL FIRE's Business and Workforce Development Grants and USFS's Wood Innovations Grants are some of the few that offer busineses the opportunity to apply for public funds.
 2. **Lack of infrastructure**.
-3. **Inability to facilitate long-term feedstock agreements**.
+3. **Inability to facilitate long-term feedstock agreements**. @Swezy mentions that once the sawlog supply normalized following the Dixie Fire, that although the regional Forest Service leadership is trying to align with the Wildfire and Forest Resilience Task Force Action [Plan](https://wildfiretaskforce.org/action-plan) for treatment targets, these objectives do not often match the local district ranger capacity to secure feedstock contracts nor the funding for the work resulting in inconsistent log supplies and financial instability for wood processing facilities.
 4. **Lack of resources bespoke to wood products businesses**.
 5. **Sparse networking and partner opportunities**. 
+6. **Leadership to run wood processing facilities**. Although experienced labor to run mills may be available, as has been the case for Tahoe Forest Products and J&C Lumber finding skilled leadership for supervisory positions to support operations and grow startups may be difficult [@Swezy].
 
 :::{attention} Recommendations to Funders
 :class: dropdown
@@ -100,6 +99,9 @@ Spitballing stage for the initial ideas that precedes the pre-concept.
 - Establishing a preliminary project schedule
 
 ## III. Feasiblity
+
+Cite @Wildephor here? See bib for url link to study
+
 - Securing site control
 - Preliminary engineering and design for the preferred tech, and a third party review of it
 - Detailed financial analysis
