@@ -111,15 +111,17 @@ Spitballing stage for the initial ideas that precedes the pre-concept.
 - Refine and maintain the Gantt
 - Partner/stakeholder engagement
 
-## IV. Late Stage
+## IV. Consolidation? (Late Stage)
 - Final engineering/design
 - Construction and operating permits
 - Complete lender/investor requirements and financial close
 - Establish construction schedule and plan
-- Procue long-lead equipment
+- Procure long-lead equipment
 - Pitch deck
 
-## V. Up & running
+## V. Implementation Up & running
+
+## VI. Stock taking
 
 # Resources
 
