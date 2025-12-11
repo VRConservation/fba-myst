@@ -27,7 +27,7 @@ exports:
     article_type: Report
 ---
 
-# PUT TOGETHER SLIDE DECK FOR THE WORKSHOP
+PUT TOGETHER SLIDE DECK FOR THE WORKSHOP
 
 # Takeaways
 1. **Business plan.** Develop a clear business plan with a vision, achievable objectives, scalable expansion, and brief but accurate finance plan.
